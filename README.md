@@ -30,4 +30,8 @@ MapReduce is a programming model used for processing and generating large datase
 ---
 
 🔗 **Additional Resources:**  
+- MapReduce explained youtube: https://www.youtube.com/watch?v=cHGaQz0E7AU
+- MapReduce article: https://www.tutorialspoint.com/map_reduce/map_reduce_algorithm.htm
+- How to write a MapReduce framework in Python: https://nidhog.medium.com/how-to-quickly-write-a-mapreduce-framework-in-python-821a79fda554 
+
 📄 [MapReduce Documentation](#) | 📚 [Tutorials](#) | 🎥 [Video Guides](#) 
