@@ -1,0 +1,260 @@
+{
+    "uczniowie": {
+        "top": [
+            [
+                "technik informatyk",
+                {
+                    "uczniowie": 106494,
+                    "chlopcy": 106494,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "technik logistyk",
+                {
+                    "uczniowie": 64731,
+                    "chlopcy": 64731,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "przygotowanie do kształcenia zawodowego",
+                {
+                    "uczniowie": 63603,
+                    "chlopcy": 63603,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "technik żywienia i usług gastronomicznych",
+                {
+                    "uczniowie": 54156,
+                    "chlopcy": 54156,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "technik ekonomista",
+                {
+                    "uczniowie": 41257,
+                    "chlopcy": 41257,
+                    "dziewczeta": 0
+                }
+            ]
+        ],
+        "min": [
+            [
+                "technik włókienniczych wyrobów dekoracyjnych",
+                {
+                    "uczniowie": 2,
+                    "chlopcy": 2,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "operator maszyn w przemyśle włókienniczym",
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 1,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "operator urządzeń przemysłu ceramicznego",
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 1,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "optyk-mechanik",
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 1,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "górnik odkrywkowej eksploatacji złóż",
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 1,
+                    "dziewczeta": 0
+                }
+            ]
+        ]
+    },
+    "chlopcy": {
+        "top": [
+            [
+                "technik informatyk",
+                {
+                    "uczniowie": 106494,
+                    "chlopcy": 106494,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "technik logistyk",
+                {
+                    "uczniowie": 64731,
+                    "chlopcy": 64731,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "przygotowanie do kształcenia zawodowego",
+                {
+                    "uczniowie": 63603,
+                    "chlopcy": 63603,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "technik żywienia i usług gastronomicznych",
+                {
+                    "uczniowie": 54156,
+                    "chlopcy": 54156,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "technik ekonomista",
+                {
+                    "uczniowie": 41257,
+                    "chlopcy": 41257,
+                    "dziewczeta": 0
+                }
+            ]
+        ],
+        "min": [
+            [
+                "technik włókienniczych wyrobów dekoracyjnych",
+                {
+                    "uczniowie": 2,
+                    "chlopcy": 2,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "operator maszyn w przemyśle włókienniczym",
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 1,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "operator urządzeń przemysłu ceramicznego",
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 1,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "optyk-mechanik",
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 1,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "górnik odkrywkowej eksploatacji złóż",
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 1,
+                    "dziewczeta": 0
+                }
+            ]
+        ]
+    },
+    "dziewczeta": {
+        "top": [
+            [
+                "technik górnictwa odkrywkowego",
+                {
+                    "uczniowie": 47,
+                    "chlopcy": 47,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "technik górnictwa otworowego",
+                {
+                    "uczniowie": 17,
+                    "chlopcy": 17,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "technik górnictwa podziemnego",
+                {
+                    "uczniowie": 254,
+                    "chlopcy": 254,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "technik gazownictwa",
+                {
+                    "uczniowie": 238,
+                    "chlopcy": 238,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "technik geodeta",
+                {
+                    "uczniowie": 7227,
+                    "chlopcy": 7227,
+                    "dziewczeta": 0
+                }
+            ]
+        ],
+        "min": [
+            [
+                "technik elektroradiolog",
+                {
+                    "uczniowie": 3363,
+                    "chlopcy": 3363,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "technik elektryk",
+                {
+                    "uczniowie": 21295,
+                    "chlopcy": 21295,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "technik energetyk",
+                {
+                    "uczniowie": 890,
+                    "chlopcy": 890,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "technik farmaceutyczny",
+                {
+                    "uczniowie": 4564,
+                    "chlopcy": 4564,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "technik fotografii i multimediów",
+                {
+                    "uczniowie": 17157,
+                    "chlopcy": 17157,
+                    "dziewczeta": 0
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,260 @@
+{
+    "uczniowie": {
+        "top": [
+            [
+                "technik informatyk",
+                {
+                    "uczniowie": 105940,
+                    "chlopcy": 99134,
+                    "dziewczeta": 6806
+                }
+            ],
+            [
+                "technik logistyk",
+                {
+                    "uczniowie": 70428,
+                    "chlopcy": 43630,
+                    "dziewczeta": 26798
+                }
+            ],
+            [
+                "przygotowanie do kształcenia zawodowego",
+                {
+                    "uczniowie": 65659,
+                    "chlopcy": 24217,
+                    "dziewczeta": 41442
+                }
+            ],
+            [
+                "technik żywienia i usług gastronomicznych",
+                {
+                    "uczniowie": 56140,
+                    "chlopcy": 16277,
+                    "dziewczeta": 39863
+                }
+            ],
+            [
+                "technik ekonomista",
+                {
+                    "uczniowie": 41207,
+                    "chlopcy": 13663,
+                    "dziewczeta": 27544
+                }
+            ]
+        ],
+        "min": [
+            [
+                "modelarz odlewniczy",
+                {
+                    "uczniowie": 2,
+                    "chlopcy": 2,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "monter izolacji budowlanych",
+                {
+                    "uczniowie": 2,
+                    "chlopcy": 2,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "optyk-mechanik",
+                {
+                    "uczniowie": 2,
+                    "chlopcy": 2,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "technik technologii szkła",
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 1,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "operator maszyn w przemyśle włókienniczym",
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 1,
+                    "dziewczeta": 0
+                }
+            ]
+        ]
+    },
+    "chlopcy": {
+        "top": [
+            [
+                "technik informatyk",
+                {
+                    "uczniowie": 105940,
+                    "chlopcy": 99134,
+                    "dziewczeta": 6806
+                }
+            ],
+            [
+                "technik logistyk",
+                {
+                    "uczniowie": 70428,
+                    "chlopcy": 43630,
+                    "dziewczeta": 26798
+                }
+            ],
+            [
+                "mechanik pojazdów samochodowych",
+                {
+                    "uczniowie": 38410,
+                    "chlopcy": 37900,
+                    "dziewczeta": 510
+                }
+            ],
+            [
+                "technik pojazdów samochodowych",
+                {
+                    "uczniowie": 34121,
+                    "chlopcy": 33571,
+                    "dziewczeta": 550
+                }
+            ],
+            [
+                "technik programista",
+                {
+                    "uczniowie": 30185,
+                    "chlopcy": 27515,
+                    "dziewczeta": 2670
+                }
+            ]
+        ],
+        "min": [
+            [
+                "operator maszyn w przemyśle włókienniczym",
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 1,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "eksperymentalny - technik jeździectwa",
+                {
+                    "uczniowie": 11,
+                    "chlopcy": 1,
+                    "dziewczeta": 10
+                }
+            ],
+            [
+                "rękodzielnik wyrobów włókienniczych",
+                {
+                    "uczniowie": 7,
+                    "chlopcy": 0,
+                    "dziewczeta": 7
+                }
+            ],
+            [
+                "technik procesów introligatorskich",
+                {
+                    "uczniowie": 11,
+                    "chlopcy": 0,
+                    "dziewczeta": 11
+                }
+            ],
+            [
+                "eksperymentalny - animator czytelnictwa",
+                {
+                    "uczniowie": 7,
+                    "chlopcy": 0,
+                    "dziewczeta": 7
+                }
+            ]
+        ]
+    },
+    "dziewczeta": {
+        "top": [
+            [
+                "przygotowanie do kształcenia zawodowego",
+                {
+                    "uczniowie": 65659,
+                    "chlopcy": 24217,
+                    "dziewczeta": 41442
+                }
+            ],
+            [
+                "technik żywienia i usług gastronomicznych",
+                {
+                    "uczniowie": 56140,
+                    "chlopcy": 16277,
+                    "dziewczeta": 39863
+                }
+            ],
+            [
+                "technik usług kosmetycznych",
+                {
+                    "uczniowie": 29184,
+                    "chlopcy": 824,
+                    "dziewczeta": 28360
+                }
+            ],
+            [
+                "technik ekonomista",
+                {
+                    "uczniowie": 41207,
+                    "chlopcy": 13663,
+                    "dziewczeta": 27544
+                }
+            ],
+            [
+                "technik logistyk",
+                {
+                    "uczniowie": 70428,
+                    "chlopcy": 43630,
+                    "dziewczeta": 26798
+                }
+            ]
+        ],
+        "min": [
+            [
+                "eksperymentalny - technik elektromobilności",
+                {
+                    "uczniowie": 13,
+                    "chlopcy": 13,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "eksperymentalny - technik robotyki",
+                {
+                    "uczniowie": 32,
+                    "chlopcy": 32,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "eksperymentalny - technik spawalnictwa",
+                {
+                    "uczniowie": 17,
+                    "chlopcy": 17,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "górnik eksploatacji podziemnej",
+                {
+                    "uczniowie": 37,
+                    "chlopcy": 37,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                "kamieniarz",
+                {
+                    "uczniowie": 48,
+                    "chlopcy": 48,
+                    "dziewczeta": 0
+                }
+            ]
+        ]
+    }
+}

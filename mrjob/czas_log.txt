@@ -1,0 +1,350 @@
+MRJobPowiatyObszaryZawody na pliku: data/uczniowie20232024.csv (runner: local)
+Czas trwania: 6.56 sekund
+
+MRJobPowiatyObszaryZawody na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 10.90 sekund
+
+MRJobPowiatyObszaryZawody na pliku: hdfs:///user/agata/input/uczniowie20232024.csv (runner: hadoop)
+Czas trwania: 80.67 sekund
+
+MRJobPowiatyObszaryZawody na pliku: hdfs:///user/agata/input/uczniowie20232024.csv (runner: hadoop)
+Czas trwania: 80.32 sekund
+
+MRJobPowiatyObszaryZawody na pliku: hdfs:///user/agata/input/uczniowie20232024.csv (runner: hadoop)
+Czas trwania: 70.28 sekund
+
+MRJobWojewodztwaZawody na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 5.22 sekund
+
+MRJobWojewodztwaZawody na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 4.57 sekund
+
+MRJobSzkolyWojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 3.81 sekund
+
+MRJobSzkolyWojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 1.97 sekund
+
+MRJobSzkolyWojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 4.17 sekund
+
+MRJobSzkoly_Wojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 3.57 sekund
+
+MRJobSzkoly_TypPodmiotu_Wojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 3.92 sekund
+
+MRJobSzkoly_Wojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 3.75 sekund
+
+MRJobSzkoly_TypPodmiotu_Wojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 4.18 sekund
+
+MRJobWojewodztwo_LiczbaUczniow na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 3.74 sekund
+
+MRJobSzkoly_Publicznosc_Wojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 5.76 sekund
+
+MRJobSzkoly_Publicznosc_Wojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 6.25 sekund
+
+MRJobSzkoly_Publicznosc_Wojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 5.53 sekund
+
+MRJobSzkoly_Publicznosc_Wojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 5.52 sekund
+
+MRJobPowiatyObszaryZawody na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 11.63 sekund
+
+MRJobSzkoly_Publicznosc_Wojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 5.84 sekund
+
+MRJobPowiatyObszaryZawody na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 12.87 sekund
+
+MRJobTypObszaru_Zawody_LiczbaUczniow na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 3.45 sekund
+
+MRJobPowiatyObszaryZawody na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 11.23 sekund
+
+MRJobTypObszaru_Zawody_LiczbaUczniow na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 4.98 sekund
+
+MRJobPowiatyObszaryZawody na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 12.48 sekund
+
+MRJobPowiatyObszaryZawody na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 11.15 sekund
+
+MRJobTypObszaru_Zawody_LiczbaUczniow na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 4.92 sekund
+
+---
+
+MRJobPowiatyObszaryZawody na pliku: data/uczniowie20232024.csv (runner: hadoop)
+Czas trwania: 71.14 sekund
+
+MRJobWojewodztwaZawody na pliku: data/uczniowie20232024.csv (runner: hadoop)
+Czas trwania: 74.91 sekund
+
+MRJobTypObszaru_Zawody_LiczbaUczniow na pliku: data/uczniowie20232024.csv (runner: hadoop)
+Czas trwania: 70.47 sekund
+
+MRJobPowiatyObszaryZawody na pliku: data/uczniowie20232024.csv (runner: hadoop)
+Czas trwania: 69.01 sekund
+
+MRJobSzkoly_Wojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 2.98 sekund
+
+MRJobSzkoly_TypPodmiotu_Wojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 3.38 sekund
+
+MRJobSzkoly_Publicznosc_Wojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 4.12 sekund
+
+MRJobWojewodztwo_LiczbaUczniow na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 2.61 sekund
+
+MRJobWojewodztwo_LiczbaUczniow na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 3.03 sekund
+
+MRJobWojewodztwaZawody na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 2.27 sekund
+
+MRJobTypObszaru_Zawody_LiczbaUczniow na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 3.82 sekund
+
+MRJobSzkoly_Wojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 2.86 sekund
+
+MRJobSzkoly_TypPodmiotu_Wojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 3.11 sekund
+
+MRJobSzkoly_Publicznosc_Wojewodztwa na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 2.97 sekund
+
+MRJobPowiatyObszaryZawody na pliku: data/uczniowie20232024.csv (runner: inline)
+Czas trwania: 9.96 sekund
+
+MRJobPowiatyObszaryZawody na pliku: data/uczniowie20222023.csv (runner: inline)
+Czas trwania: 8.52 sekund
+
+MRJobWojewodztwaZawody na pliku: data/uczniowie20222023.csv (runner: inline)
+Czas trwania: 4.13 sekund
+
+MRJobTypObszaru_Zawody_LiczbaUczniow na pliku: data/uczniowie20222023.csv (runner: inline)
+Czas trwania: 4.54 sekund
+
+MRJobSzkoly_Wojewodztwa na pliku: data/uczniowie20222023.csv (runner: inline)
+Czas trwania: 2.76 sekund
+
+MRJobSzkoly_TypPodmiotu_Wojewodztwa na pliku: data/uczniowie20222023.csv (runner: inline)
+Czas trwania: 2.31 sekund
+
+MRJobSzkoly_Publicznosc_Wojewodztwa na pliku: data/uczniowie20222023.csv (runner: inline)
+Czas trwania: 3.44 sekund
+
+MRJobWojewodztwo_LiczbaUczniow na pliku: data/uczniowie20222023.csv (runner: inline)
+Czas trwania: 3.22 sekund
+
+MRJobPowiatyObszaryZawody na pliku: data/uczniowie20212022.csv (runner: inline)
+Czas trwania: 4.53 sekund
+
+MRJobWojewodztwaZawody na pliku: data/uczniowie20212022.csv (runner: inline)
+Czas trwania: 1.84 sekund
+
+MRJobTypObszaru_Zawody_LiczbaUczniow na pliku: data/uczniowie20212022.csv (runner: inline)
+Czas trwania: 2.44 sekund
+
+MRJobSzkoly_Wojewodztwa na pliku: data/uczniowie20212022.csv (runner: inline)
+Czas trwania: 2.16 sekund
+
+MRJobSzkoly_TypPodmiotu_Wojewodztwa na pliku: data/uczniowie20212022.csv (runner: inline)
+Czas trwania: 2.34 sekund
+
+MRJobSzkoly_Publicznosc_Wojewodztwa na pliku: data/uczniowie20212022.csv (runner: inline)
+Czas trwania: 3.16 sekund
+
+MRJobWojewodztwo_LiczbaUczniow na pliku: data/uczniowie20212022.csv (runner: inline)
+Czas trwania: 2.46 sekund
+
+MRJobWojewodztwo_LiczbaUczniow na pliku: data/uczniowie20232026.csv (runner: inline)
+Czas trwania: 0.16 sekund
+
+MRJobWojewodztwo_LiczbaUczniow na pliku: data/uczniowie20232026.csv (runner: inline)
+Czas trwania: 0.15 sekund
+
+MRJobWojewodztwo_LiczbaUczniow na pliku: data/uczniowie20232026.csv (runner: inline)
+Czas trwania: 0.11 sekund
+
+MRJobWojewodztwo_LiczbaUczniow na pliku: data/uczniowie20232026.csv (runner: inline)
+Czas trwania: 0.12 sekund
+
+MRJobSzkoly_Wojewodztwa na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 2.06 sekund
+
+MRJobWojewodztwaZawody na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 3.19 sekund
+
+MRJobWojewodztwaZawody na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 4.36 sekund
+
+MRJobWojewodztwaZawody na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 2.39 sekund
+
+MRJobTypObszaru_Zawody_LiczbaUczniow na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 3.72 sekund
+
+MRJobSzkoly_Wojewodztwa na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 2.66 sekund
+
+MRJobSzkoly_TypPodmiotu_Wojewodztwa na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 2.87 sekund
+
+MRJobSzkoly_Publicznosc_Wojewodztwa na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 2.59 sekund
+
+MRJobWojewodztwo_LiczbaUczniow na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 2.61 sekund
+
+MRJobWojewodztwaZawody na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 2.06 sekund
+
+MRJobTypObszaru_Zawody_LiczbaUczniow na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 1.85 sekund
+
+MRJobSzkoly_Wojewodztwa na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 2.06 sekund
+
+MRJobSzkoly_TypPodmiotu_Wojewodztwa na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 2.60 sekund
+
+MRJobSzkoly_Publicznosc_Wojewodztwa na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 3.36 sekund
+
+MRJobWojewodztwo_LiczbaUczniow na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 2.47 sekund
+
+MRJobWojewodztwaZawody na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 4.53 sekund
+
+MRJobTypObszaru_Zawody_LiczbaUczniow na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 4.19 sekund
+
+MRJobSzkoly_Wojewodztwa na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 2.77 sekund
+
+MRJobSzkoly_TypPodmiotu_Wojewodztwa na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 2.38 sekund
+
+MRJobSzkoly_Publicznosc_Wojewodztwa na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 2.93 sekund
+
+MRJobWojewodztwo_LiczbaUczniow na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 3.39 sekund
+
+MRJobRok_LiczbaUczniow na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 3.20 sekund
+
+MRJobRok_LiczbaUczniow na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 1.86 sekund
+
+MRJobRok_LiczbaUczniow na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 2.60 sekund
+
+MRJobRok_LiczbaUczniow na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 2.96 sekund
+
+MRJobRok_LiczbaSzkół na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 1.95 sekund
+
+MRJobRok_LiczbaSzkół na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 2.20 sekund
+
+MRJobRok_LiczbaSzkół na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 2.26 sekund
+
+MRJobWojewodztwaZawody na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 2.58 sekund
+
+MRJobTypObszaru_Zawody_LiczbaUczniow na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 1.76 sekund
+
+MRJobSzkoly_Wojewodztwa na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 1.26 sekund
+
+MRJobSzkoly_TypPodmiotu_Wojewodztwa na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 1.41 sekund
+
+MRJobSzkoly_Publicznosc_Wojewodztwa na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 2.61 sekund
+
+MRJobWojewodztwo_LiczbaUczniow na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 2.32 sekund
+
+MRJobRok_LiczbaUczniow na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 2.20 sekund
+
+MRJobRok_LiczbaSzkół na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 1.81 sekund
+
+MRJobWojewodztwaZawody na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 3.34 sekund
+
+MRJobTypObszaru_Zawody_LiczbaUczniow na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 2.66 sekund
+
+MRJobSzkoly_Wojewodztwa na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 2.43 sekund
+
+MRJobSzkoly_TypPodmiotu_Wojewodztwa na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 3.07 sekund
+
+MRJobSzkoly_Publicznosc_Wojewodztwa na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 4.11 sekund
+
+MRJobWojewodztwo_LiczbaUczniow na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 2.48 sekund
+
+MRJobRok_LiczbaUczniow na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 1.70 sekund
+
+MRJobRok_LiczbaSzkół na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 1.45 sekund
+
+MRJobWojewodztwaZawody na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 2.51 sekund
+
+MRJobTypObszaru_Zawody_LiczbaUczniow na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 2.70 sekund
+
+MRJobSzkoly_Wojewodztwa na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 2.37 sekund
+
+MRJobSzkoly_TypPodmiotu_Wojewodztwa na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 2.95 sekund
+
+MRJobSzkoly_Publicznosc_Wojewodztwa na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 3.91 sekund
+
+MRJobWojewodztwo_LiczbaUczniow na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 2.75 sekund
+
+MRJobRok_LiczbaUczniow na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 2.73 sekund
+
+MRJobRok_LiczbaSzkół na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 2.20 sekund
+
+MRJobUczniowie_w_Zawodach na pliku: data/processed_uczniowie20222023.csv (runner: inline)
+Czas trwania: 2.82 sekund
+
+MRJobUczniowie_w_Zawodach na pliku: data/processed_uczniowie20232024.csv (runner: inline)
+Czas trwania: 3.13 sekund
+
+MRJobUczniowie_w_Zawodach na pliku: data/processed_uczniowie20242025.csv (runner: inline)
+Czas trwania: 3.12 sekund
+

@@ -1,0 +1,350 @@
+{
+    "uczniowie": {
+        "top": [
+            [
+                [
+                    "obszar miejski",
+                    "technik informatyk"
+                ],
+                {
+                    "uczniowie": 102341,
+                    "dziewczeta": 6601,
+                    "chlopcy": 95740
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "technik logistyk"
+                ],
+                {
+                    "uczniowie": 67622,
+                    "dziewczeta": 25691,
+                    "chlopcy": 41931
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "przygotowanie do kształcenia zawodowego"
+                ],
+                {
+                    "uczniowie": 60064,
+                    "dziewczeta": 37904,
+                    "chlopcy": 22160
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "technik żywienia i usług gastronomicznych"
+                ],
+                {
+                    "uczniowie": 48520,
+                    "dziewczeta": 34346,
+                    "chlopcy": 14174
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "technik ekonomista"
+                ],
+                {
+                    "uczniowie": 40042,
+                    "dziewczeta": 26746,
+                    "chlopcy": 13296
+                }
+            ]
+        ],
+        "min": [
+            [
+                [
+                    "obszar miejski",
+                    "operator maszyn w przemyśle włókienniczym"
+                ],
+                {
+                    "uczniowie": 1,
+                    "dziewczeta": 0,
+                    "chlopcy": 1
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "operator urządzeń przemysłu szklarskiego"
+                ],
+                {
+                    "uczniowie": 1,
+                    "dziewczeta": 0,
+                    "chlopcy": 1
+                }
+            ],
+            [
+                [
+                    "obszar wiejski",
+                    "monter sieci i urządzeń telekomunikacyjnych"
+                ],
+                {
+                    "uczniowie": 1,
+                    "dziewczeta": 0,
+                    "chlopcy": 1
+                }
+            ],
+            [
+                [
+                    "obszar wiejski",
+                    "operator urządzeń przemysłu chemicznego"
+                ],
+                {
+                    "uczniowie": 1,
+                    "dziewczeta": 0,
+                    "chlopcy": 1
+                }
+            ],
+            [
+                [
+                    "obszar wiejski",
+                    "złotnik-jubiler"
+                ],
+                {
+                    "uczniowie": 1,
+                    "dziewczeta": 0,
+                    "chlopcy": 1
+                }
+            ]
+        ]
+    },
+    "dziewczeta": {
+        "top": [
+            [
+                [
+                    "obszar miejski",
+                    "przygotowanie do kształcenia zawodowego"
+                ],
+                {
+                    "uczniowie": 60064,
+                    "dziewczeta": 37904,
+                    "chlopcy": 22160
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "technik żywienia i usług gastronomicznych"
+                ],
+                {
+                    "uczniowie": 48520,
+                    "dziewczeta": 34346,
+                    "chlopcy": 14174
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "technik usług kosmetycznych"
+                ],
+                {
+                    "uczniowie": 29148,
+                    "dziewczeta": 28324,
+                    "chlopcy": 824
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "technik ekonomista"
+                ],
+                {
+                    "uczniowie": 40042,
+                    "dziewczeta": 26746,
+                    "chlopcy": 13296
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "technik logistyk"
+                ],
+                {
+                    "uczniowie": 67622,
+                    "dziewczeta": 25691,
+                    "chlopcy": 41931
+                }
+            ]
+        ],
+        "min": [
+            [
+                [
+                    "obszar miejski",
+                    "eksperymentalny - technik elektromobilności"
+                ],
+                {
+                    "uczniowie": 13,
+                    "dziewczeta": 0,
+                    "chlopcy": 13
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "eksperymentalny - technik robotyki"
+                ],
+                {
+                    "uczniowie": 32,
+                    "dziewczeta": 0,
+                    "chlopcy": 32
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "eksperymentalny - technik spawalnictwa"
+                ],
+                {
+                    "uczniowie": 17,
+                    "dziewczeta": 0,
+                    "chlopcy": 17
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "górnik eksploatacji podziemnej"
+                ],
+                {
+                    "uczniowie": 37,
+                    "dziewczeta": 0,
+                    "chlopcy": 37
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "kamieniarz"
+                ],
+                {
+                    "uczniowie": 43,
+                    "dziewczeta": 0,
+                    "chlopcy": 43
+                }
+            ]
+        ]
+    },
+    "chlopcy": {
+        "top": [
+            [
+                [
+                    "obszar miejski",
+                    "technik informatyk"
+                ],
+                {
+                    "uczniowie": 102341,
+                    "dziewczeta": 6601,
+                    "chlopcy": 95740
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "technik logistyk"
+                ],
+                {
+                    "uczniowie": 67622,
+                    "dziewczeta": 25691,
+                    "chlopcy": 41931
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "mechanik pojazdów samochodowych"
+                ],
+                {
+                    "uczniowie": 36644,
+                    "dziewczeta": 497,
+                    "chlopcy": 36147
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "technik pojazdów samochodowych"
+                ],
+                {
+                    "uczniowie": 32972,
+                    "dziewczeta": 534,
+                    "chlopcy": 32438
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "technik programista"
+                ],
+                {
+                    "uczniowie": 29805,
+                    "dziewczeta": 2640,
+                    "chlopcy": 27165
+                }
+            ]
+        ],
+        "min": [
+            [
+                [
+                    "obszar wiejski",
+                    "operator procesów introligatorskich"
+                ],
+                {
+                    "uczniowie": 2,
+                    "dziewczeta": 2,
+                    "chlopcy": 0
+                }
+            ],
+            [
+                [
+                    "obszar wiejski",
+                    "rękodzielnik wyrobów włókienniczych"
+                ],
+                {
+                    "uczniowie": 7,
+                    "dziewczeta": 7,
+                    "chlopcy": 0
+                }
+            ],
+            [
+                [
+                    "obszar wiejski",
+                    "technik stylista"
+                ],
+                {
+                    "uczniowie": 74,
+                    "dziewczeta": 74,
+                    "chlopcy": 0
+                }
+            ],
+            [
+                [
+                    "obszar wiejski",
+                    "technik usług kosmetycznych"
+                ],
+                {
+                    "uczniowie": 36,
+                    "dziewczeta": 36,
+                    "chlopcy": 0
+                }
+            ],
+            [
+                [
+                    "obszar miejski",
+                    "eksperymentalny - animator czytelnictwa"
+                ],
+                {
+                    "uczniowie": 7,
+                    "dziewczeta": 7,
+                    "chlopcy": 0
+                }
+            ]
+        ]
+    }
+}

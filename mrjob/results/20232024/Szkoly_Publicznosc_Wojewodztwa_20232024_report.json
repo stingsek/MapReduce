@@ -1,0 +1,64 @@
+{
+    "top": [
+        [
+            "wielkopolskie",
+            8679
+        ],
+        [
+            "śląskie",
+            8456
+        ],
+        [
+            "mazowieckie",
+            7917
+        ],
+        [
+            [
+                "wielkopolskie",
+                "publiczna"
+            ],
+            7259
+        ],
+        [
+            "małopolskie",
+            7003
+        ]
+    ],
+    "min": [
+        [
+            [
+                "podkarpackie",
+                "niepubliczna szkoła artystyczna bez uprawnień publicznej szkoły artystycznej"
+            ],
+            6
+        ],
+        [
+            [
+                "podlaskie",
+                "niepubliczna szkoła artystyczna bez uprawnień publicznej szkoły artystycznej"
+            ],
+            6
+        ],
+        [
+            [
+                "opolskie",
+                "niepubliczna szkoła artystyczna bez uprawnień publicznej szkoły artystycznej"
+            ],
+            5
+        ],
+        [
+            [
+                "lubelskie",
+                "niepubliczna szkoła artystyczna bez uprawnień publicznej szkoły artystycznej"
+            ],
+            4
+        ],
+        [
+            [
+                "pomorskie",
+                "niepubliczna szkoła artystyczna bez uprawnień publicznej szkoły artystycznej"
+            ],
+            2
+        ]
+    ]
+}

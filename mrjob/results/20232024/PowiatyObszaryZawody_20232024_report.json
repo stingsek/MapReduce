@@ -1,0 +1,260 @@
+{
+    "uczniowie": {
+        "top": [
+            [
+                "m. st. warszawa, obszar miejski, technik informatyk",
+                {
+                    "uczniowie": 3452,
+                    "dziewczeta": 180,
+                    "dziewczeta_absolwentki": 32
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, technik sterylizacji medycznej",
+                {
+                    "uczniowie": 3190,
+                    "dziewczeta": 1524,
+                    "dziewczeta_absolwentki": 899
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, przygotowanie do ksztalcenia zawodowego",
+                {
+                    "uczniowie": 2907,
+                    "dziewczeta": 1818,
+                    "dziewczeta_absolwentki": 189
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, florysta",
+                {
+                    "uczniowie": 2762,
+                    "dziewczeta": 1830,
+                    "dziewczeta_absolwentki": 1038
+                }
+            ],
+            [
+                "m. krakow, obszar miejski, technik informatyk",
+                {
+                    "uczniowie": 2281,
+                    "dziewczeta": 155,
+                    "dziewczeta_absolwentki": 24
+                }
+            ]
+        ],
+        "min": [
+            [
+                "m. sosnowiec, obszar miejski, technik rachunkowosci",
+                {
+                    "uczniowie": 0,
+                    "dziewczeta": 0,
+                    "dziewczeta_absolwentki": 9
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, monter konstrukcji budowlanych",
+                {
+                    "uczniowie": 0,
+                    "dziewczeta": 0,
+                    "dziewczeta_absolwentki": 0
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, technik geolog",
+                {
+                    "uczniowie": 0,
+                    "dziewczeta": 0,
+                    "dziewczeta_absolwentki": 4
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, technik renowacji elementow architektury",
+                {
+                    "uczniowie": 0,
+                    "dziewczeta": 0,
+                    "dziewczeta_absolwentki": 9
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, technik uslug kelnerskich",
+                {
+                    "uczniowie": 0,
+                    "dziewczeta": 0,
+                    "dziewczeta_absolwentki": 7
+                }
+            ]
+        ]
+    },
+    "dziewczeta": {
+        "top": [
+            [
+                "m. st. warszawa, obszar miejski, technik uslug kosmetycznych",
+                {
+                    "uczniowie": 2234,
+                    "dziewczeta": 2087,
+                    "dziewczeta_absolwentki": 676
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, florysta",
+                {
+                    "uczniowie": 2762,
+                    "dziewczeta": 1830,
+                    "dziewczeta_absolwentki": 1038
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, przygotowanie do ksztalcenia zawodowego",
+                {
+                    "uczniowie": 2907,
+                    "dziewczeta": 1818,
+                    "dziewczeta_absolwentki": 189
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, technik sterylizacji medycznej",
+                {
+                    "uczniowie": 3190,
+                    "dziewczeta": 1524,
+                    "dziewczeta_absolwentki": 899
+                }
+            ],
+            [
+                "m. krakow, obszar miejski, technik uslug kosmetycznych",
+                {
+                    "uczniowie": 1549,
+                    "dziewczeta": 1501,
+                    "dziewczeta_absolwentki": 388
+                }
+            ]
+        ],
+        "min": [
+            [
+                "m. st. warszawa, obszar miejski, technik energetyk",
+                {
+                    "uczniowie": 36,
+                    "dziewczeta": 0,
+                    "dziewczeta_absolwentki": 1
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, technik geolog",
+                {
+                    "uczniowie": 0,
+                    "dziewczeta": 0,
+                    "dziewczeta_absolwentki": 4
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, technik renowacji elementow architektury",
+                {
+                    "uczniowie": 0,
+                    "dziewczeta": 0,
+                    "dziewczeta_absolwentki": 9
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, technik szerokopasmowej komunikacji elektronicznej",
+                {
+                    "uczniowie": 35,
+                    "dziewczeta": 0,
+                    "dziewczeta_absolwentki": 0
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, technik uslug kelnerskich",
+                {
+                    "uczniowie": 0,
+                    "dziewczeta": 0,
+                    "dziewczeta_absolwentki": 7
+                }
+            ]
+        ]
+    },
+    "dziewczeta_absolwentki": {
+        "top": [
+            [
+                "m. st. warszawa, obszar miejski, florysta",
+                {
+                    "uczniowie": 2762,
+                    "dziewczeta": 1830,
+                    "dziewczeta_absolwentki": 1038
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, technik sterylizacji medycznej",
+                {
+                    "uczniowie": 3190,
+                    "dziewczeta": 1524,
+                    "dziewczeta_absolwentki": 899
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, technik uslug kosmetycznych",
+                {
+                    "uczniowie": 2234,
+                    "dziewczeta": 2087,
+                    "dziewczeta_absolwentki": 676
+                }
+            ],
+            [
+                "m. krakow, obszar miejski, florysta",
+                {
+                    "uczniowie": 2229,
+                    "dziewczeta": 1414,
+                    "dziewczeta_absolwentki": 607
+                }
+            ],
+            [
+                "m. wroclaw, obszar miejski, florysta",
+                {
+                    "uczniowie": 1331,
+                    "dziewczeta": 946,
+                    "dziewczeta_absolwentki": 523
+                }
+            ]
+        ],
+        "min": [
+            [
+                "m. st. warszawa, obszar miejski, technik stylista",
+                {
+                    "uczniowie": 161,
+                    "dziewczeta": 154,
+                    "dziewczeta_absolwentki": 0
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, technik szerokopasmowej komunikacji elektronicznej",
+                {
+                    "uczniowie": 35,
+                    "dziewczeta": 0,
+                    "dziewczeta_absolwentki": 0
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, technik technologii drewna",
+                {
+                    "uczniowie": 142,
+                    "dziewczeta": 15,
+                    "dziewczeta_absolwentki": 0
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, technik telekomunikacji",
+                {
+                    "uczniowie": 72,
+                    "dziewczeta": 4,
+                    "dziewczeta_absolwentki": 0
+                }
+            ],
+            [
+                "m. st. warszawa, obszar miejski, technik urzadzen dzwigowych",
+                {
+                    "uczniowie": 108,
+                    "dziewczeta": 2,
+                    "dziewczeta_absolwentki": 0
+                }
+            ]
+        ]
+    }
+}

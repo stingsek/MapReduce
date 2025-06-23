@@ -1,0 +1,46 @@
+{
+    "top": [
+        [
+            "mazowieckie",
+            680
+        ],
+        [
+            "śląskie",
+            661
+        ],
+        [
+            "wielkopolskie",
+            516
+        ],
+        [
+            "małopolskie",
+            497
+        ],
+        [
+            "dolnośląskie",
+            420
+        ]
+    ],
+    "min": [
+        [
+            "warmińsko-mazurskie",
+            236
+        ],
+        [
+            "świętokrzyskie",
+            217
+        ],
+        [
+            "podlaskie",
+            182
+        ],
+        [
+            "lubuskie",
+            168
+        ],
+        [
+            "opolskie",
+            160
+        ]
+    ]
+}

@@ -1,0 +1,350 @@
+{
+    "uczniowie": {
+        "top": [
+            [
+                [
+                    "mazowieckie",
+                    "technik informatyk"
+                ],
+                {
+                    "uczniowie": 12663,
+                    "chlopcy": 11938,
+                    "dziewczeta": 725
+                }
+            ],
+            [
+                [
+                    "śląskie",
+                    "technik informatyk"
+                ],
+                {
+                    "uczniowie": 12598,
+                    "chlopcy": 11889,
+                    "dziewczeta": 709
+                }
+            ],
+            [
+                [
+                    "małopolskie",
+                    "przygotowanie do kształcenia zawodowego"
+                ],
+                {
+                    "uczniowie": 10728,
+                    "chlopcy": 4012,
+                    "dziewczeta": 6716
+                }
+            ],
+            [
+                [
+                    "wielkopolskie",
+                    "technik informatyk"
+                ],
+                {
+                    "uczniowie": 10100,
+                    "chlopcy": 9468,
+                    "dziewczeta": 632
+                }
+            ],
+            [
+                [
+                    "małopolskie",
+                    "technik informatyk"
+                ],
+                {
+                    "uczniowie": 10088,
+                    "chlopcy": 9525,
+                    "dziewczeta": 563
+                }
+            ]
+        ],
+        "min": [
+            [
+                [
+                    "śląskie",
+                    "kowal"
+                ],
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 1,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                [
+                    "śląskie",
+                    "monter sieci i urządzeń telekomunikacyjnych"
+                ],
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 1,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                [
+                    "śląskie",
+                    "optyk-mechanik"
+                ],
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 1,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                [
+                    "mazowieckie",
+                    "drukarz offsetowy"
+                ],
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 0,
+                    "dziewczeta": 1
+                }
+            ],
+            [
+                [
+                    "mazowieckie",
+                    "monter sieci i urządzeń telekomunikacyjnych"
+                ],
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 1,
+                    "dziewczeta": 0
+                }
+            ]
+        ]
+    },
+    "chlopcy": {
+        "top": [
+            [
+                [
+                    "mazowieckie",
+                    "technik informatyk"
+                ],
+                {
+                    "uczniowie": 12663,
+                    "chlopcy": 11938,
+                    "dziewczeta": 725
+                }
+            ],
+            [
+                [
+                    "śląskie",
+                    "technik informatyk"
+                ],
+                {
+                    "uczniowie": 12598,
+                    "chlopcy": 11889,
+                    "dziewczeta": 709
+                }
+            ],
+            [
+                [
+                    "małopolskie",
+                    "technik informatyk"
+                ],
+                {
+                    "uczniowie": 10088,
+                    "chlopcy": 9525,
+                    "dziewczeta": 563
+                }
+            ],
+            [
+                [
+                    "wielkopolskie",
+                    "technik informatyk"
+                ],
+                {
+                    "uczniowie": 10100,
+                    "chlopcy": 9468,
+                    "dziewczeta": 632
+                }
+            ],
+            [
+                [
+                    "dolnośląskie",
+                    "technik informatyk"
+                ],
+                {
+                    "uczniowie": 7991,
+                    "chlopcy": 7347,
+                    "dziewczeta": 644
+                }
+            ]
+        ],
+        "min": [
+            [
+                [
+                    "wielkopolskie",
+                    "protetyk słuchu"
+                ],
+                {
+                    "uczniowie": 22,
+                    "chlopcy": 0,
+                    "dziewczeta": 22
+                }
+            ],
+            [
+                [
+                    "łódzkie",
+                    "jeździec"
+                ],
+                {
+                    "uczniowie": 5,
+                    "chlopcy": 0,
+                    "dziewczeta": 5
+                }
+            ],
+            [
+                [
+                    "łódzkie",
+                    "opiekunka środowiskowa"
+                ],
+                {
+                    "uczniowie": 5,
+                    "chlopcy": 0,
+                    "dziewczeta": 5
+                }
+            ],
+            [
+                [
+                    "mazowieckie",
+                    "drukarz offsetowy"
+                ],
+                {
+                    "uczniowie": 1,
+                    "chlopcy": 0,
+                    "dziewczeta": 1
+                }
+            ],
+            [
+                [
+                    "mazowieckie",
+                    "rękodzielnik wyrobów włókienniczych"
+                ],
+                {
+                    "uczniowie": 7,
+                    "chlopcy": 0,
+                    "dziewczeta": 7
+                }
+            ]
+        ]
+    },
+    "dziewczeta": {
+        "top": [
+            [
+                [
+                    "małopolskie",
+                    "przygotowanie do kształcenia zawodowego"
+                ],
+                {
+                    "uczniowie": 10728,
+                    "chlopcy": 4012,
+                    "dziewczeta": 6716
+                }
+            ],
+            [
+                [
+                    "mazowieckie",
+                    "technik usług kosmetycznych"
+                ],
+                {
+                    "uczniowie": 5066,
+                    "chlopcy": 208,
+                    "dziewczeta": 4858
+                }
+            ],
+            [
+                [
+                    "mazowieckie",
+                    "technik żywienia i usług gastronomicznych"
+                ],
+                {
+                    "uczniowie": 7120,
+                    "chlopcy": 2512,
+                    "dziewczeta": 4608
+                }
+            ],
+            [
+                [
+                    "małopolskie",
+                    "technik żywienia i usług gastronomicznych"
+                ],
+                {
+                    "uczniowie": 6149,
+                    "chlopcy": 1717,
+                    "dziewczeta": 4432
+                }
+            ],
+            [
+                [
+                    "mazowieckie",
+                    "przygotowanie do kształcenia zawodowego"
+                ],
+                {
+                    "uczniowie": 7044,
+                    "chlopcy": 2653,
+                    "dziewczeta": 4391
+                }
+            ]
+        ],
+        "min": [
+            [
+                [
+                    "mazowieckie",
+                    "murarz-tynkarz"
+                ],
+                {
+                    "uczniowie": 84,
+                    "chlopcy": 84,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                [
+                    "mazowieckie",
+                    "operator maszyn i urządzeń do przetwórstwa tworzyw sztucznych"
+                ],
+                {
+                    "uczniowie": 2,
+                    "chlopcy": 2,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                [
+                    "mazowieckie",
+                    "pracownik pomocniczy stolarza"
+                ],
+                {
+                    "uczniowie": 4,
+                    "chlopcy": 4,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                [
+                    "mazowieckie",
+                    "przetwórca mięsa"
+                ],
+                {
+                    "uczniowie": 4,
+                    "chlopcy": 4,
+                    "dziewczeta": 0
+                }
+            ],
+            [
+                [
+                    "mazowieckie",
+                    "tapicer"
+                ],
+                {
+                    "uczniowie": 14,
+                    "chlopcy": 14,
+                    "dziewczeta": 0
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "top": [
+        [
+            [
+                "wielkopolskie",
+                "branżowa szkoła i stopnia"
+            ],
+            3891
+        ],
+        [
+            [
+                "śląskie",
+                "technikum"
+            ],
+            3310
+        ],
+        [
+            [
+                "mazowieckie",
+                "technikum"
+            ],
+            2987
+        ],
+        [
+            [
+                "małopolskie",
+                "branżowa szkoła i stopnia"
+            ],
+            2797
+        ],
+        [
+            [
+                "wielkopolskie",
+                "technikum"
+            ],
+            2634
+        ]
+    ],
+    "min": [
+        [
+            [
+                "wielkopolskie",
+                "inna szkoła artystyczna"
+            ],
+            2
+        ],
+        [
+            [
+                "lubelskie",
+                "policealna szkoła plastyczna"
+            ],
+            2
+        ],
+        [
+            [
+                "mazowieckie",
+                "inna szkoła artystyczna"
+            ],
+            2
+        ],
+        [
+            [
+                "podkarpackie",
+                "inna szkoła artystyczna"
+            ],
+            2
+        ],
+        [
+            [
+                "małopolskie",
+                "policealna szkoła plastyczna"
+            ],
+            1
+        ]
+    ]
+}

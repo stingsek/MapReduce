@@ -1,0 +1,1817 @@
+{
+  "obszar miejski, technik izolacji przemysłowych": {
+    "uczniowie": 25,
+    "dziewczeta": 0,
+    "chlopcy": 25
+  },
+  "obszar miejski, technik księgarstwa": {
+    "uczniowie": 101,
+    "dziewczeta": 82,
+    "chlopcy": 19
+  },
+  "obszar miejski, technik leśnik": {
+    "uczniowie": 2577,
+    "dziewczeta": 843,
+    "chlopcy": 1734
+  },
+  "obszar miejski, technik logistyk": {
+    "uczniowie": 63835,
+    "dziewczeta": 23515,
+    "chlopcy": 40320
+  },
+  "obszar miejski, technik lotniskowych służb operacyjnych": {
+    "uczniowie": 2102,
+    "dziewczeta": 635,
+    "chlopcy": 1467
+  },
+  "obszar miejski, technik masażysta": {
+    "uczniowie": 25586,
+    "dziewczeta": 14023,
+    "chlopcy": 11563
+  },
+  "obszar miejski, technik mechanik lotniczy": {
+    "uczniowie": 1684,
+    "dziewczeta": 61,
+    "chlopcy": 1623
+  },
+  "obszar miejski, technik mechanik okrętowy": {
+    "uczniowie": 560,
+    "dziewczeta": 8,
+    "chlopcy": 552
+  },
+  "obszar miejski, technik mechanik": {
+    "uczniowie": 14935,
+    "dziewczeta": 217,
+    "chlopcy": 14718
+  },
+  "obszar miejski, technik mechanizacji rolnictwa i agrotroniki": {
+    "uczniowie": 3632,
+    "dziewczeta": 75,
+    "chlopcy": 3557
+  },
+  "obszar miejski, technik mechatronik": {
+    "uczniowie": 23649,
+    "dziewczeta": 393,
+    "chlopcy": 23256
+  },
+  "obszar miejski, mechanik precyzyjny": {
+    "uczniowie": 105,
+    "dziewczeta": 5,
+    "chlopcy": 100
+  },
+  "obszar miejski, mechanik-monter maszyn i urządzeń": {
+    "uczniowie": 1823,
+    "dziewczeta": 30,
+    "chlopcy": 1793
+  },
+  "obszar miejski, mechanik-operator maszyn do produkcji drzewnej": {
+    "uczniowie": 128,
+    "dziewczeta": 12,
+    "chlopcy": 116
+  },
+  "obszar miejski, mechanik-operator pojazdów i maszyn rolniczych": {
+    "uczniowie": 1668,
+    "dziewczeta": 17,
+    "chlopcy": 1651
+  },
+  "obszar miejski, mechatronik": {
+    "uczniowie": 1095,
+    "dziewczeta": 27,
+    "chlopcy": 1068
+  },
+  "obszar miejski, modelarz odlewniczy": {
+    "uczniowie": 14,
+    "dziewczeta": 1,
+    "chlopcy": 13
+  },
+  "obszar miejski, monter izolacji przemysłowych": {
+    "uczniowie": 185,
+    "dziewczeta": 1,
+    "chlopcy": 184
+  },
+  "obszar miejski, monter jachtów i łodzi": {
+    "uczniowie": 54,
+    "dziewczeta": 0,
+    "chlopcy": 54
+  },
+  "obszar miejski, monter kadłubów jednostek pływających": {
+    "uczniowie": 131,
+    "dziewczeta": 1,
+    "chlopcy": 130
+  },
+  "obszar miejski, monter konstrukcji budowlanych": {
+    "uczniowie": 81,
+    "dziewczeta": 0,
+    "chlopcy": 81
+  },
+  "obszar miejski, monter konstrukcji targowo-wystawienniczych": {
+    "uczniowie": 53,
+    "dziewczeta": 6,
+    "chlopcy": 47
+  },
+  "obszar miejski, monter sieci i instalacji sanitarnych": {
+    "uczniowie": 3536,
+    "dziewczeta": 4,
+    "chlopcy": 3532
+  },
+  "obszar miejski, monter sieci i urządzeń telekomunikacyjnych": {
+    "uczniowie": 8,
+    "dziewczeta": 0,
+    "chlopcy": 8
+  },
+  "obszar miejski, monter stolarki budowlanej": {
+    "uczniowie": 62,
+    "dziewczeta": 0,
+    "chlopcy": 62
+  },
+  "obszar miejski, monter zabudowy i robót wykończeniowych w budownictwie": {
+    "uczniowie": 10596,
+    "dziewczeta": 256,
+    "chlopcy": 10340
+  },
+  "obszar miejski, murarz-tynkarz": {
+    "uczniowie": 1911,
+    "dziewczeta": 13,
+    "chlopcy": 1898
+  },
+  "obszar miejski, muzyk": {
+    "uczniowie": 11967,
+    "dziewczeta": 7352,
+    "chlopcy": 4615
+  },
+  "obszar miejski, technik administracji": {
+    "uczniowie": 24643,
+    "dziewczeta": 15658,
+    "chlopcy": 8985
+  },
+  "obszar miejski, technik agrobiznesu": {
+    "uczniowie": 1371,
+    "dziewczeta": 370,
+    "chlopcy": 1001
+  },
+  "obszar miejski, technik analityk": {
+    "uczniowie": 5461,
+    "dziewczeta": 4163,
+    "chlopcy": 1298
+  },
+  "obszar miejski, technik animacji filmowej": {
+    "uczniowie": 775,
+    "dziewczeta": 470,
+    "chlopcy": 305
+  },
+  "obszar miejski, technik aranżacji wnętrz": {
+    "uczniowie": 1884,
+    "dziewczeta": 1443,
+    "chlopcy": 441
+  },
+  "obszar miejski, technik architektury krajobrazu": {
+    "uczniowie": 13014,
+    "dziewczeta": 10398,
+    "chlopcy": 2616
+  },
+  "obszar miejski, technik archiwista": {
+    "uczniowie": 1947,
+    "dziewczeta": 1058,
+    "chlopcy": 889
+  },
+  "obszar miejski, technik automatyk sterowania ruchem kolejowym": {
+    "uczniowie": 217,
+    "dziewczeta": 7,
+    "chlopcy": 210
+  },
+  "obszar miejski, technik automatyk": {
+    "uczniowie": 5072,
+    "dziewczeta": 74,
+    "chlopcy": 4998
+  },
+  "obszar miejski, technik awionik": {
+    "uczniowie": 402,
+    "dziewczeta": 12,
+    "chlopcy": 390
+  },
+  "obszar miejski, technik bezpieczeństwa i higieny pracy": {
+    "uczniowie": 25654,
+    "dziewczeta": 9794,
+    "chlopcy": 15860
+  },
+  "obszar miejski, technik budownictwa kolejowego": {
+    "uczniowie": 184,
+    "dziewczeta": 38,
+    "chlopcy": 146
+  },
+  "obszar miejski, technik budownictwa wodnego": {
+    "uczniowie": 25,
+    "dziewczeta": 7,
+    "chlopcy": 18
+  },
+  "obszar miejski, technik budownictwa": {
+    "uczniowie": 19424,
+    "dziewczeta": 4634,
+    "chlopcy": 14790
+  },
+  "obszar miejski, technik budowy dróg": {
+    "uczniowie": 480,
+    "dziewczeta": 45,
+    "chlopcy": 435
+  },
+  "obszar miejski, technik budowy i strojenia fortepianów i pianin": {
+    "uczniowie": 55,
+    "dziewczeta": 28,
+    "chlopcy": 27
+  },
+  "obszar miejski, technik budowy jednostek pływających": {
+    "uczniowie": 129,
+    "dziewczeta": 6,
+    "chlopcy": 123
+  },
+  "obszar miejski, technik ceramik": {
+    "uczniowie": 113,
+    "dziewczeta": 95,
+    "chlopcy": 18
+  },
+  "obszar miejski, technik chłodnictwa i klimatyzacji": {
+    "uczniowie": 1568,
+    "dziewczeta": 27,
+    "chlopcy": 1541
+  },
+  "obszar miejski, technik dekarstwa": {
+    "uczniowie": 146,
+    "dziewczeta": 5,
+    "chlopcy": 141
+  },
+  "obszar miejski, technik dentystyczny": {
+    "uczniowie": 2023,
+    "dziewczeta": 1577,
+    "chlopcy": 446
+  },
+  "obszar miejski, technik ekonomista": {
+    "uczniowie": 35190,
+    "dziewczeta": 22802,
+    "chlopcy": 12388
+  },
+  "obszar miejski, pszczelarz": {
+    "uczniowie": 7,
+    "dziewczeta": 1,
+    "chlopcy": 6
+  },
+  "obszar miejski, rolnik": {
+    "uczniowie": 528,
+    "dziewczeta": 47,
+    "chlopcy": 481
+  },
+  "obszar miejski, sprzedawca": {
+    "uczniowie": 17216,
+    "dziewczeta": 13318,
+    "chlopcy": 3898
+  },
+  "obszar miejski, stolarz": {
+    "uczniowie": 6669,
+    "dziewczeta": 112,
+    "chlopcy": 6557
+  },
+  "obszar miejski, tancerz": {
+    "uczniowie": 939,
+    "dziewczeta": 875,
+    "chlopcy": 64
+  },
+  "obszar miejski, tapicer": {
+    "uczniowie": 1083,
+    "dziewczeta": 49,
+    "chlopcy": 1034
+  },
+  "obszar miejski, technik żywienia i usług gastronomicznych": {
+    "uczniowie": 43021,
+    "dziewczeta": 30049,
+    "chlopcy": 12972
+  },
+  "obszar miejski, technik usług fryzjerskich": {
+    "uczniowie": 16188,
+    "dziewczeta": 15165,
+    "chlopcy": 1023
+  },
+  "obszar miejski, technik usług kelnerskich": {
+    "uczniowie": 1229,
+    "dziewczeta": 839,
+    "chlopcy": 390
+  },
+  "obszar miejski, technik usług kosmetycznych": {
+    "uczniowie": 26880,
+    "dziewczeta": 25995,
+    "chlopcy": 885
+  },
+  "obszar miejski, technik usług pocztowych i finansowych": {
+    "uczniowie": 2542,
+    "dziewczeta": 985,
+    "chlopcy": 1557
+  },
+  "obszar miejski, technik weterynarii": {
+    "uczniowie": 11320,
+    "dziewczeta": 9276,
+    "chlopcy": 2044
+  },
+  "obszar miejski, technik wiertnik": {
+    "uczniowie": 100,
+    "dziewczeta": 1,
+    "chlopcy": 99
+  },
+  "obszar miejski, technik żeglugi śródlądowej": {
+    "uczniowie": 429,
+    "dziewczeta": 89,
+    "chlopcy": 340
+  },
+  "obszar miejski, terapeuta zajęciowy": {
+    "uczniowie": 14923,
+    "dziewczeta": 12388,
+    "chlopcy": 2535
+  },
+  "obszar miejski, złotnik-jubiler": {
+    "uczniowie": 153,
+    "dziewczeta": 91,
+    "chlopcy": 62
+  },
+  "obszar miejski, zdobnik ceramiki": {
+    "uczniowie": 97,
+    "dziewczeta": 83,
+    "chlopcy": 14
+  },
+  "obszar wiejski, ślusarz": {
+    "uczniowie": 384,
+    "dziewczeta": 0,
+    "chlopcy": 384
+  },
+  "obszar wiejski, aktor cyrkowy": {
+    "uczniowie": 32,
+    "dziewczeta": 20,
+    "chlopcy": 12
+  },
+  "obszar wiejski, asystent osoby niepełnosprawnej": {
+    "uczniowie": 85,
+    "dziewczeta": 71,
+    "chlopcy": 14
+  },
+  "obszar wiejski, automatyk": {
+    "uczniowie": 23,
+    "dziewczeta": 1,
+    "chlopcy": 22
+  },
+  "obszar wiejski, betoniarz-zbrojarz": {
+    "uczniowie": 15,
+    "dziewczeta": 0,
+    "chlopcy": 15
+  },
+  "obszar wiejski, blacharz samochodowy": {
+    "uczniowie": 62,
+    "dziewczeta": 1,
+    "chlopcy": 61
+  },
+  "obszar wiejski, blacharz": {
+    "uczniowie": 3,
+    "dziewczeta": 0,
+    "chlopcy": 3
+  },
+  "obszar wiejski, cieśla": {
+    "uczniowie": 5,
+    "dziewczeta": 0,
+    "chlopcy": 5
+  },
+  "obszar wiejski, cukiernik": {
+    "uczniowie": 408,
+    "dziewczeta": 325,
+    "chlopcy": 83
+  },
+  "obszar wiejski, dekarz": {
+    "uczniowie": 13,
+    "dziewczeta": 0,
+    "chlopcy": 13
+  },
+  "obszar wiejski, drukarz fleksograficzny": {
+    "uczniowie": 9,
+    "dziewczeta": 0,
+    "chlopcy": 9
+  },
+  "obszar wiejski, drukarz offsetowy": {
+    "uczniowie": 11,
+    "dziewczeta": 0,
+    "chlopcy": 11
+  },
+  "obszar wiejski, elektromechanik pojazdów samochodowych": {
+    "uczniowie": 160,
+    "dziewczeta": 0,
+    "chlopcy": 160
+  },
+  "obszar wiejski, elektromechanik": {
+    "uczniowie": 61,
+    "dziewczeta": 0,
+    "chlopcy": 61
+  },
+  "obszar wiejski, elektronik": {
+    "uczniowie": 9,
+    "dziewczeta": 0,
+    "chlopcy": 9
+  },
+  "obszar wiejski, elektryk": {
+    "uczniowie": 448,
+    "dziewczeta": 2,
+    "chlopcy": 446
+  },
+  "obszar wiejski, florysta": {
+    "uczniowie": 78,
+    "dziewczeta": 72,
+    "chlopcy": 6
+  },
+  "obszar wiejski, fotograf": {
+    "uczniowie": 13,
+    "dziewczeta": 11,
+    "chlopcy": 2
+  },
+  "obszar wiejski, fryzjer": {
+    "uczniowie": 924,
+    "dziewczeta": 837,
+    "chlopcy": 87
+  },
+  "obszar wiejski, jeździec": {
+    "uczniowie": 1,
+    "dziewczeta": 1,
+    "chlopcy": 0
+  },
+  "obszar wiejski, kamieniarz": {
+    "uczniowie": 7,
+    "dziewczeta": 0,
+    "chlopcy": 7
+  },
+  "obszar wiejski, kelner": {
+    "uczniowie": 16,
+    "dziewczeta": 10,
+    "chlopcy": 6
+  },
+  "obszar wiejski, kierowca mechanik": {
+    "uczniowie": 124,
+    "dziewczeta": 3,
+    "chlopcy": 121
+  },
+  "obszar wiejski, kominiarz": {
+    "uczniowie": 1,
+    "dziewczeta": 0,
+    "chlopcy": 1
+  },
+  "obszar wiejski, koszykarz-plecionkarz": {
+    "uczniowie": 20,
+    "dziewczeta": 7,
+    "chlopcy": 13
+  },
+  "obszar wiejski, kowal": {
+    "uczniowie": 25,
+    "dziewczeta": 0,
+    "chlopcy": 25
+  },
+  "obszar wiejski, krawiec": {
+    "uczniowie": 44,
+    "dziewczeta": 37,
+    "chlopcy": 7
+  },
+  "obszar wiejski, kucharz": {
+    "uczniowie": 2949,
+    "dziewczeta": 1606,
+    "chlopcy": 1343
+  },
+  "obszar miejski, technik montażu i automatyki stolarki budowlanej": {
+    "uczniowie": 9,
+    "dziewczeta": 0,
+    "chlopcy": 9
+  },
+  "obszar miejski, technik nawigator morski": {
+    "uczniowie": 750,
+    "dziewczeta": 124,
+    "chlopcy": 626
+  },
+  "obszar miejski, technik obsługi przemysłu targowo-wystawienniczego": {
+    "uczniowie": 45,
+    "dziewczeta": 10,
+    "chlopcy": 35
+  },
+  "obszar miejski, technik ochrony fizycznej osób i mienia": {
+    "uczniowie": 1732,
+    "dziewczeta": 585,
+    "chlopcy": 1147
+  },
+  "obszar miejski, technik ochrony środowiska": {
+    "uczniowie": 2558,
+    "dziewczeta": 1790,
+    "chlopcy": 768
+  },
+  "obszar miejski, technik odlewnik": {
+    "uczniowie": 4,
+    "dziewczeta": 0,
+    "chlopcy": 4
+  },
+  "obszar miejski, technik ogrodnik": {
+    "uczniowie": 878,
+    "dziewczeta": 422,
+    "chlopcy": 456
+  },
+  "obszar miejski, technik optyk": {
+    "uczniowie": 709,
+    "dziewczeta": 502,
+    "chlopcy": 207
+  },
+  "obszar miejski, technik organizacji turystyki": {
+    "uczniowie": 17756,
+    "dziewczeta": 13560,
+    "chlopcy": 4196
+  },
+  "obszar miejski, technik ortopeda": {
+    "uczniowie": 927,
+    "dziewczeta": 643,
+    "chlopcy": 284
+  },
+  "obszar miejski, technik papiernictwa": {
+    "uczniowie": 139,
+    "dziewczeta": 51,
+    "chlopcy": 88
+  },
+  "obszar miejski, technik pożarnictwa": {
+    "uczniowie": 356,
+    "dziewczeta": 9,
+    "chlopcy": 347
+  },
+  "obszar miejski, technik podziemnej eksploatacji kopalin innych niż węgiel kamienny": {
+    "uczniowie": 274,
+    "dziewczeta": 7,
+    "chlopcy": 267
+  },
+  "obszar miejski, technik pojazdów kolejowych": {
+    "uczniowie": 166,
+    "dziewczeta": 2,
+    "chlopcy": 164
+  },
+  "obszar miejski, technik pojazdów samochodowych": {
+    "uczniowie": 30669,
+    "dziewczeta": 527,
+    "chlopcy": 30142
+  },
+  "obszar miejski, technik prac biurowych": {
+    "uczniowie": 34,
+    "dziewczeta": 29,
+    "chlopcy": 5
+  },
+  "obszar miejski, technik procesów drukowania": {
+    "uczniowie": 196,
+    "dziewczeta": 51,
+    "chlopcy": 145
+  },
+  "obszar miejski, technik procesów introligatorskich": {
+    "uczniowie": 7,
+    "dziewczeta": 7,
+    "chlopcy": 0
+  },
+  "obszar miejski, technik programista": {
+    "uczniowie": 32037,
+    "dziewczeta": 2888,
+    "chlopcy": 29149
+  },
+  "obszar miejski, technik przemysłu drzewnego": {
+    "uczniowie": 25,
+    "dziewczeta": 0,
+    "chlopcy": 25
+  },
+  "obszar miejski, technik przemysłu jachtowego": {
+    "uczniowie": 49,
+    "dziewczeta": 11,
+    "chlopcy": 38
+  },
+  "obszar miejski, technik przemysłu metalurgicznego": {
+    "uczniowie": 184,
+    "dziewczeta": 2,
+    "chlopcy": 182
+  },
+  "obszar miejski, technik przemysłu mody": {
+    "uczniowie": 3221,
+    "dziewczeta": 3030,
+    "chlopcy": 191
+  },
+  "obszar miejski, technik przetwórstwa mleczarskiego": {
+    "uczniowie": 102,
+    "dziewczeta": 68,
+    "chlopcy": 34
+  },
+  "obszar miejski, technik pszczelarz": {
+    "uczniowie": 5,
+    "dziewczeta": 1,
+    "chlopcy": 4
+  },
+  "obszar miejski, technik rachunkowości": {
+    "uczniowie": 9560,
+    "dziewczeta": 6719,
+    "chlopcy": 2841
+  },
+  "obszar miejski, technik realizacji nagłośnień": {
+    "uczniowie": 178,
+    "dziewczeta": 52,
+    "chlopcy": 126
+  },
+  "obszar miejski, technik realizacji nagrań": {
+    "uczniowie": 1163,
+    "dziewczeta": 320,
+    "chlopcy": 843
+  },
+  "obszar miejski, technik reklamy": {
+    "uczniowie": 24391,
+    "dziewczeta": 16587,
+    "chlopcy": 7804
+  },
+  "obszar miejski, technik renowacji elementów architektury": {
+    "uczniowie": 1197,
+    "dziewczeta": 966,
+    "chlopcy": 231
+  },
+  "obszar miejski, technik robót wykończeniowych w budownictwie": {
+    "uczniowie": 3504,
+    "dziewczeta": 694,
+    "chlopcy": 2810
+  },
+  "obszar miejski, technik robotyk": {
+    "uczniowie": 2175,
+    "dziewczeta": 98,
+    "chlopcy": 2077
+  },
+  "obszar miejski, technik rolnik": {
+    "uczniowie": 1769,
+    "dziewczeta": 241,
+    "chlopcy": 1528
+  },
+  "obszar miejski, technik rybactwa śródlądowego": {
+    "uczniowie": 49,
+    "dziewczeta": 7,
+    "chlopcy": 42
+  },
+  "obszar miejski, technik spawalnictwa": {
+    "uczniowie": 2710,
+    "dziewczeta": 22,
+    "chlopcy": 2688
+  },
+  "obszar miejski, technik spedytor": {
+    "uczniowie": 10237,
+    "dziewczeta": 3293,
+    "chlopcy": 6944
+  },
+  "obszar miejski, technik sterylizacji medycznej": {
+    "uczniowie": 21759,
+    "dziewczeta": 14078,
+    "chlopcy": 7681
+  },
+  "obszar miejski, technik stylista": {
+    "uczniowie": 2735,
+    "dziewczeta": 2649,
+    "chlopcy": 86
+  },
+  "obszar miejski, technik szerokopasmowej komunikacji elektronicznej": {
+    "uczniowie": 162,
+    "dziewczeta": 0,
+    "chlopcy": 162
+  },
+  "obszar miejski, technik technologii chemicznej": {
+    "uczniowie": 885,
+    "dziewczeta": 393,
+    "chlopcy": 492
+  },
+  "obszar miejski, technik technologii drewna": {
+    "uczniowie": 1770,
+    "dziewczeta": 153,
+    "chlopcy": 1617
+  },
+  "obszar miejski, technik technologii żywności": {
+    "uczniowie": 4345,
+    "dziewczeta": 3417,
+    "chlopcy": 928
+  },
+  "obszar miejski, technik teleinformatyk": {
+    "uczniowie": 4650,
+    "dziewczeta": 152,
+    "chlopcy": 4498
+  },
+  "obszar miejski, technik telekomunikacji": {
+    "uczniowie": 132,
+    "dziewczeta": 22,
+    "chlopcy": 110
+  },
+  "obszar miejski, technik transportu drogowego": {
+    "uczniowie": 920,
+    "dziewczeta": 55,
+    "chlopcy": 865
+  },
+  "obszar miejski, technik transportu kolejowego": {
+    "uczniowie": 3626,
+    "dziewczeta": 736,
+    "chlopcy": 2890
+  },
+  "obszar miejski, technik turystyki na obszarach wiejskich": {
+    "uczniowie": 242,
+    "dziewczeta": 163,
+    "chlopcy": 79
+  },
+  "obszar miejski, technik tyfloinformatyk": {
+    "uczniowie": 47,
+    "dziewczeta": 6,
+    "chlopcy": 41
+  },
+  "obszar miejski, technik urządzeń dźwigowych": {
+    "uczniowie": 216,
+    "dziewczeta": 4,
+    "chlopcy": 212
+  },
+  "obszar miejski, technik urządzeń i systemów energetyki odnawialnej": {
+    "uczniowie": 8309,
+    "dziewczeta": 485,
+    "chlopcy": 7824
+  },
+  "obszar miejski, obuwnik": {
+    "uczniowie": 2,
+    "dziewczeta": 1,
+    "chlopcy": 1
+  },
+  "obszar miejski, ogrodnik": {
+    "uczniowie": 930,
+    "dziewczeta": 359,
+    "chlopcy": 571
+  },
+  "obszar miejski, operator maszyn i urządzeń do przetwórstwa tworzyw sztucznych": {
+    "uczniowie": 123,
+    "dziewczeta": 1,
+    "chlopcy": 122
+  },
+  "obszar miejski, operator maszyn i urządzeń do robót ziemnych i drogowych": {
+    "uczniowie": 29,
+    "dziewczeta": 0,
+    "chlopcy": 29
+  },
+  "obszar miejski, operator maszyn i urządzeń przemysłu drzewnego": {
+    "uczniowie": 78,
+    "dziewczeta": 13,
+    "chlopcy": 65
+  },
+  "obszar miejski, operator maszyn i urządzeń przeróbczych": {
+    "uczniowie": 18,
+    "dziewczeta": 0,
+    "chlopcy": 18
+  },
+  "obszar miejski, operator maszyn i urządzeń odlewniczych": {
+    "uczniowie": 14,
+    "dziewczeta": 0,
+    "chlopcy": 14
+  },
+  "obszar miejski, operator maszyn i urządzeń przemysłu spożywczego": {
+    "uczniowie": 58,
+    "dziewczeta": 13,
+    "chlopcy": 45
+  },
+  "obszar miejski, operator maszyn leśnych": {
+    "uczniowie": 3,
+    "dziewczeta": 0,
+    "chlopcy": 3
+  },
+  "obszar miejski, operator obrabiarek skrawających": {
+    "uczniowie": 4296,
+    "dziewczeta": 84,
+    "chlopcy": 4212
+  },
+  "obszar miejski, operator procesów introligatorskich": {
+    "uczniowie": 212,
+    "dziewczeta": 85,
+    "chlopcy": 127
+  },
+  "obszar miejski, operator urządzeń przemysłu chemicznego": {
+    "uczniowie": 5,
+    "dziewczeta": 0,
+    "chlopcy": 5
+  },
+  "obszar miejski, opiekun medyczny": {
+    "uczniowie": 26846,
+    "dziewczeta": 21992,
+    "chlopcy": 4854
+  },
+  "obszar miejski, opiekun osoby starszej": {
+    "uczniowie": 270,
+    "dziewczeta": 142,
+    "chlopcy": 128
+  },
+  "obszar miejski, opiekun w domu pomocy społecznej": {
+    "uczniowie": 865,
+    "dziewczeta": 409,
+    "chlopcy": 456
+  },
+  "obszar miejski, opiekunka dziecięca": {
+    "uczniowie": 5480,
+    "dziewczeta": 5218,
+    "chlopcy": 262
+  },
+  "obszar miejski, opiekunka środowiskowa": {
+    "uczniowie": 797,
+    "dziewczeta": 524,
+    "chlopcy": 273
+  },
+  "obszar miejski, ortoptystka": {
+    "uczniowie": 233,
+    "dziewczeta": 211,
+    "chlopcy": 22
+  },
+  "obszar miejski, piekarz": {
+    "uczniowie": 2091,
+    "dziewczeta": 343,
+    "chlopcy": 1748
+  },
+  "obszar miejski, plastyk": {
+    "uczniowie": 11332,
+    "dziewczeta": 10271,
+    "chlopcy": 1061
+  },
+  "obszar miejski, podolog": {
+    "uczniowie": 2470,
+    "dziewczeta": 2272,
+    "chlopcy": 198
+  },
+  "obszar miejski, pracownik obsługi hotelowej": {
+    "uczniowie": 1215,
+    "dziewczeta": 906,
+    "chlopcy": 309
+  },
+  "obszar miejski, pracownik pomocniczy ślusarza": {
+    "uczniowie": 50,
+    "dziewczeta": 1,
+    "chlopcy": 49
+  },
+  "obszar miejski, pracownik pomocniczy fryzjera": {
+    "uczniowie": 50,
+    "dziewczeta": 41,
+    "chlopcy": 9
+  },
+  "obszar miejski, pracownik pomocniczy gastronomii": {
+    "uczniowie": 982,
+    "dziewczeta": 427,
+    "chlopcy": 555
+  },
+  "obszar miejski, pracownik pomocniczy krawca": {
+    "uczniowie": 27,
+    "dziewczeta": 17,
+    "chlopcy": 10
+  },
+  "obszar miejski, pracownik pomocniczy mechanika": {
+    "uczniowie": 102,
+    "dziewczeta": 0,
+    "chlopcy": 102
+  },
+  "obszar miejski, pracownik pomocniczy obsługi hotelowej": {
+    "uczniowie": 1459,
+    "dziewczeta": 695,
+    "chlopcy": 764
+  },
+  "obszar miejski, pracownik pomocniczy stolarza": {
+    "uczniowie": 67,
+    "dziewczeta": 0,
+    "chlopcy": 67
+  },
+  "obszar miejski, protetyk słuchu": {
+    "uczniowie": 754,
+    "dziewczeta": 644,
+    "chlopcy": 110
+  },
+  "obszar miejski, przetwórca mięsa": {
+    "uczniowie": 92,
+    "dziewczeta": 7,
+    "chlopcy": 85
+  },
+  "obszar miejski, przygotowanie do kształcenia zawodowego": {
+    "uczniowie": 62254,
+    "dziewczeta": 39548,
+    "chlopcy": 22706
+  },
+  "obszar miejski, technik eksploatacji portów i terminali": {
+    "uczniowie": 5631,
+    "dziewczeta": 2548,
+    "chlopcy": 3083
+  },
+  "obszar miejski, technik elektroautomatyk okrętowy": {
+    "uczniowie": 68,
+    "dziewczeta": 2,
+    "chlopcy": 66
+  },
+  "obszar miejski, technik elektroenergetyk transportu szynowego": {
+    "uczniowie": 479,
+    "dziewczeta": 2,
+    "chlopcy": 477
+  },
+  "obszar miejski, technik elektromobilności": {
+    "uczniowie": 43,
+    "dziewczeta": 1,
+    "chlopcy": 42
+  },
+  "obszar miejski, technik elektronik": {
+    "uczniowie": 10561,
+    "dziewczeta": 118,
+    "chlopcy": 10443
+  },
+  "obszar miejski, technik elektroniki i informatyki medycznej": {
+    "uczniowie": 279,
+    "dziewczeta": 58,
+    "chlopcy": 221
+  },
+  "obszar miejski, technik elektroradiolog": {
+    "uczniowie": 4840,
+    "dziewczeta": 3650,
+    "chlopcy": 1190
+  },
+  "obszar miejski, technik elektryk": {
+    "uczniowie": 22082,
+    "dziewczeta": 136,
+    "chlopcy": 21946
+  },
+  "obszar miejski, technik energetyk": {
+    "uczniowie": 786,
+    "dziewczeta": 15,
+    "chlopcy": 771
+  },
+  "obszar miejski, technik farmaceutyczny": {
+    "uczniowie": 4594,
+    "dziewczeta": 3993,
+    "chlopcy": 601
+  },
+  "obszar miejski, technik fotografii i multimediów": {
+    "uczniowie": 17266,
+    "dziewczeta": 12990,
+    "chlopcy": 4276
+  },
+  "obszar miejski, technik górnictwa odkrywkowego": {
+    "uczniowie": 40,
+    "dziewczeta": 5,
+    "chlopcy": 35
+  },
+  "obszar miejski, technik górnictwa otworowego": {
+    "uczniowie": 26,
+    "dziewczeta": 1,
+    "chlopcy": 25
+  },
+  "obszar miejski, technik górnictwa podziemnego": {
+    "uczniowie": 74,
+    "dziewczeta": 3,
+    "chlopcy": 71
+  },
+  "obszar miejski, technik gazownictwa": {
+    "uczniowie": 153,
+    "dziewczeta": 8,
+    "chlopcy": 145
+  },
+  "obszar miejski, technik geodeta": {
+    "uczniowie": 6611,
+    "dziewczeta": 1928,
+    "chlopcy": 4683
+  },
+  "obszar miejski, technik geolog": {
+    "uczniowie": 148,
+    "dziewczeta": 75,
+    "chlopcy": 73
+  },
+  "obszar miejski, technik grafiki i poligrafii cyfrowej": {
+    "uczniowie": 19160,
+    "dziewczeta": 9202,
+    "chlopcy": 9958
+  },
+  "obszar wiejski, lakiernik samochodowy": {
+    "uczniowie": 62,
+    "dziewczeta": 2,
+    "chlopcy": 60
+  },
+  "obszar wiejski, magazynier-logistyk": {
+    "uczniowie": 298,
+    "dziewczeta": 67,
+    "chlopcy": 231
+  },
+  "obszar wiejski, mechanik motocyklowy": {
+    "uczniowie": 2,
+    "dziewczeta": 0,
+    "chlopcy": 2
+  },
+  "obszar wiejski, mechanik pojazdów samochodowych": {
+    "uczniowie": 1720,
+    "dziewczeta": 14,
+    "chlopcy": 1706
+  },
+  "obszar wiejski, mechanik precyzyjny": {
+    "uczniowie": 1,
+    "dziewczeta": 0,
+    "chlopcy": 1
+  },
+  "obszar wiejski, mechanik-monter maszyn i urządzeń": {
+    "uczniowie": 26,
+    "dziewczeta": 0,
+    "chlopcy": 26
+  },
+  "obszar wiejski, mechanik-operator maszyn do produkcji drzewnej": {
+    "uczniowie": 3,
+    "dziewczeta": 0,
+    "chlopcy": 3
+  },
+  "obszar wiejski, mechanik-operator pojazdów i maszyn rolniczych": {
+    "uczniowie": 1718,
+    "dziewczeta": 30,
+    "chlopcy": 1688
+  },
+  "obszar wiejski, mechatronik": {
+    "uczniowie": 98,
+    "dziewczeta": 8,
+    "chlopcy": 90
+  },
+  "obszar wiejski, monter kadłubów jednostek pływających": {
+    "uczniowie": 11,
+    "dziewczeta": 0,
+    "chlopcy": 11
+  },
+  "obszar wiejski, monter konstrukcji budowlanych": {
+    "uczniowie": 8,
+    "dziewczeta": 0,
+    "chlopcy": 8
+  },
+  "obszar wiejski, monter sieci i instalacji sanitarnych": {
+    "uczniowie": 227,
+    "dziewczeta": 1,
+    "chlopcy": 226
+  },
+  "obszar wiejski, monter sieci i urządzeń telekomunikacyjnych": {
+    "uczniowie": 1,
+    "dziewczeta": 0,
+    "chlopcy": 1
+  },
+  "obszar wiejski, monter stolarki budowlanej": {
+    "uczniowie": 19,
+    "dziewczeta": 0,
+    "chlopcy": 19
+  },
+  "obszar wiejski, monter zabudowy i robót wykończeniowych w budownictwie": {
+    "uczniowie": 386,
+    "dziewczeta": 7,
+    "chlopcy": 379
+  },
+  "obszar wiejski, murarz-tynkarz": {
+    "uczniowie": 186,
+    "dziewczeta": 1,
+    "chlopcy": 185
+  },
+  "obszar wiejski, obuwnik": {
+    "uczniowie": 3,
+    "dziewczeta": 1,
+    "chlopcy": 2
+  },
+  "obszar wiejski, ogrodnik": {
+    "uczniowie": 158,
+    "dziewczeta": 37,
+    "chlopcy": 121
+  },
+  "obszar wiejski, operator maszyn i urządzeń do robót ziemnych i drogowych": {
+    "uczniowie": 39,
+    "dziewczeta": 0,
+    "chlopcy": 39
+  },
+  "obszar wiejski, operator maszyn i urządzeń przemysłu spożywczego": {
+    "uczniowie": 6,
+    "dziewczeta": 0,
+    "chlopcy": 6
+  },
+  "obszar wiejski, operator maszyn leśnych": {
+    "uczniowie": 65,
+    "dziewczeta": 2,
+    "chlopcy": 63
+  },
+  "obszar wiejski, operator obrabiarek skrawających": {
+    "uczniowie": 181,
+    "dziewczeta": 2,
+    "chlopcy": 179
+  },
+  "obszar wiejski, operator procesów introligatorskich": {
+    "uczniowie": 2,
+    "dziewczeta": 2,
+    "chlopcy": 0
+  },
+  "obszar wiejski, operator urządzeń przemysłu chemicznego": {
+    "uczniowie": 1,
+    "dziewczeta": 0,
+    "chlopcy": 1
+  },
+  "obszar wiejski, operator urządzeń przemysłu szklarskiego": {
+    "uczniowie": 24,
+    "dziewczeta": 1,
+    "chlopcy": 23
+  },
+  "obszar wiejski, opiekun medyczny": {
+    "uczniowie": 298,
+    "dziewczeta": 232,
+    "chlopcy": 66
+  },
+  "obszar wiejski, opiekunka dziecięca": {
+    "uczniowie": 100,
+    "dziewczeta": 99,
+    "chlopcy": 1
+  },
+  "obszar wiejski, piekarz": {
+    "uczniowie": 118,
+    "dziewczeta": 19,
+    "chlopcy": 99
+  },
+  "obszar wiejski, plastyk": {
+    "uczniowie": 250,
+    "dziewczeta": 236,
+    "chlopcy": 14
+  },
+  "obszar wiejski, pracownik obsługi hotelowej": {
+    "uczniowie": 64,
+    "dziewczeta": 48,
+    "chlopcy": 16
+  },
+  "obszar wiejski, pracownik pomocniczy ślusarza": {
+    "uczniowie": 8,
+    "dziewczeta": 0,
+    "chlopcy": 8
+  },
+  "obszar wiejski, pracownik pomocniczy gastronomii": {
+    "uczniowie": 62,
+    "dziewczeta": 39,
+    "chlopcy": 23
+  },
+  "obszar wiejski, pracownik pomocniczy obsługi hotelowej": {
+    "uczniowie": 46,
+    "dziewczeta": 22,
+    "chlopcy": 24
+  },
+  "obszar wiejski, pracownik pomocniczy stolarza": {
+    "uczniowie": 12,
+    "dziewczeta": 0,
+    "chlopcy": 12
+  },
+  "obszar wiejski, protetyk słuchu": {
+    "uczniowie": 29,
+    "dziewczeta": 21,
+    "chlopcy": 8
+  },
+  "obszar wiejski, przetwórca mięsa": {
+    "uczniowie": 9,
+    "dziewczeta": 0,
+    "chlopcy": 9
+  },
+  "obszar wiejski, przygotowanie do kształcenia zawodowego": {
+    "uczniowie": 5857,
+    "dziewczeta": 3753,
+    "chlopcy": 2104
+  },
+  "obszar wiejski, rękodzielnik wyrobów włókienniczych": {
+    "uczniowie": 6,
+    "dziewczeta": 6,
+    "chlopcy": 0
+  },
+  "obszar wiejski, rolnik": {
+    "uczniowie": 279,
+    "dziewczeta": 49,
+    "chlopcy": 230
+  },
+  "obszar wiejski, sprzedawca": {
+    "uczniowie": 993,
+    "dziewczeta": 735,
+    "chlopcy": 258
+  },
+  "obszar wiejski, stolarz": {
+    "uczniowie": 607,
+    "dziewczeta": 2,
+    "chlopcy": 605
+  },
+  "obszar wiejski, tapicer": {
+    "uczniowie": 83,
+    "dziewczeta": 5,
+    "chlopcy": 78
+  },
+  "obszar wiejski, technik żywienia i usług gastronomicznych": {
+    "uczniowie": 6852,
+    "dziewczeta": 4918,
+    "chlopcy": 1934
+  },
+  "obszar wiejski, technik administracji": {
+    "uczniowie": 248,
+    "dziewczeta": 147,
+    "chlopcy": 101
+  },
+  "obszar wiejski, technik agrobiznesu": {
+    "uczniowie": 837,
+    "dziewczeta": 238,
+    "chlopcy": 599
+  },
+  "obszar wiejski, technik analityk": {
+    "uczniowie": 69,
+    "dziewczeta": 55,
+    "chlopcy": 14
+  },
+  "obszar wiejski, technik aranżacji wnętrz": {
+    "uczniowie": 18,
+    "dziewczeta": 15,
+    "chlopcy": 3
+  },
+  "obszar wiejski, technik architektury krajobrazu": {
+    "uczniowie": 2948,
+    "dziewczeta": 2240,
+    "chlopcy": 708
+  },
+  "obszar wiejski, technik automatyk": {
+    "uczniowie": 158,
+    "dziewczeta": 4,
+    "chlopcy": 154
+  },
+  "obszar wiejski, technik awionik": {
+    "uczniowie": 6,
+    "dziewczeta": 1,
+    "chlopcy": 5
+  },
+  "obszar wiejski, technik bezpieczeństwa i higieny pracy": {
+    "uczniowie": 283,
+    "dziewczeta": 106,
+    "chlopcy": 177
+  },
+  "obszar wiejski, technik budownictwa": {
+    "uczniowie": 404,
+    "dziewczeta": 31,
+    "chlopcy": 373
+  },
+  "obszar wiejski, technik chłodnictwa i klimatyzacji": {
+    "uczniowie": 53,
+    "dziewczeta": 1,
+    "chlopcy": 52
+  },
+  "obszar wiejski, technik ekonomista": {
+    "uczniowie": 1100,
+    "dziewczeta": 743,
+    "chlopcy": 357
+  },
+  "obszar wiejski, technik eksploatacji portów i terminali": {
+    "uczniowie": 384,
+    "dziewczeta": 169,
+    "chlopcy": 215
+  },
+  "obszar wiejski, technik elektroenergetyk transportu szynowego": {
+    "uczniowie": 9,
+    "dziewczeta": 0,
+    "chlopcy": 9
+  },
+  "obszar wiejski, technik elektronik": {
+    "uczniowie": 113,
+    "dziewczeta": 1,
+    "chlopcy": 112
+  },
+  "obszar wiejski, technik elektryk": {
+    "uczniowie": 236,
+    "dziewczeta": 3,
+    "chlopcy": 233
+  },
+  "obszar wiejski, technik energetyk": {
+    "uczniowie": 9,
+    "dziewczeta": 1,
+    "chlopcy": 8
+  },
+  "obszar wiejski, technik fotografii i multimediów": {
+    "uczniowie": 235,
+    "dziewczeta": 165,
+    "chlopcy": 70
+  },
+  "obszar wiejski, technik górnictwa podziemnego": {
+    "uczniowie": 6,
+    "dziewczeta": 0,
+    "chlopcy": 6
+  },
+  "obszar wiejski, technik geodeta": {
+    "uczniowie": 131,
+    "dziewczeta": 45,
+    "chlopcy": 86
+  },
+  "obszar wiejski, technik grafiki i poligrafii cyfrowej": {
+    "uczniowie": 746,
+    "dziewczeta": 323,
+    "chlopcy": 423
+  },
+  "obszar wiejski, technik handlowiec": {
+    "uczniowie": 307,
+    "dziewczeta": 161,
+    "chlopcy": 146
+  },
+  "obszar wiejski, technik hodowca koni": {
+    "uczniowie": 883,
+    "dziewczeta": 837,
+    "chlopcy": 46
+  },
+  "obszar wiejski, technik hotelarstwa": {
+    "uczniowie": 1840,
+    "dziewczeta": 1464,
+    "chlopcy": 376
+  },
+  "obszar wiejski, technik inżynierii środowiska i melioracji": {
+    "uczniowie": 14,
+    "dziewczeta": 4,
+    "chlopcy": 10
+  },
+  "obszar wiejski, technik informatyk": {
+    "uczniowie": 3083,
+    "dziewczeta": 172,
+    "chlopcy": 2911
+  },
+  "obszar wiejski, technik leśnik": {
+    "uczniowie": 1953,
+    "dziewczeta": 632,
+    "chlopcy": 1321
+  },
+  "obszar wiejski, technik logistyk": {
+    "uczniowie": 2736,
+    "dziewczeta": 1035,
+    "chlopcy": 1701
+  },
+  "obszar wiejski, technik masażysta": {
+    "uczniowie": 59,
+    "dziewczeta": 38,
+    "chlopcy": 21
+  },
+  "obszar wiejski, technik mechanik lotniczy": {
+    "uczniowie": 71,
+    "dziewczeta": 4,
+    "chlopcy": 67
+  },
+  "obszar wiejski, technik mechanik": {
+    "uczniowie": 317,
+    "dziewczeta": 5,
+    "chlopcy": 312
+  },
+  "obszar wiejski, technik mechanizacji rolnictwa i agrotroniki": {
+    "uczniowie": 5168,
+    "dziewczeta": 115,
+    "chlopcy": 5053
+  },
+  "obszar wiejski, technik mechatronik": {
+    "uczniowie": 676,
+    "dziewczeta": 27,
+    "chlopcy": 649
+  },
+  "obszar wiejski, technik ochrony środowiska": {
+    "uczniowie": 18,
+    "dziewczeta": 9,
+    "chlopcy": 9
+  },
+  "obszar wiejski, technik ogrodnik": {
+    "uczniowie": 94,
+    "dziewczeta": 16,
+    "chlopcy": 78
+  },
+  "obszar wiejski, technik organizacji turystyki": {
+    "uczniowie": 157,
+    "dziewczeta": 121,
+    "chlopcy": 36
+  },
+  "obszar wiejski, technik pojazdów kolejowych": {
+    "uczniowie": 53,
+    "dziewczeta": 0,
+    "chlopcy": 53
+  },
+  "obszar wiejski, technik pojazdów samochodowych": {
+    "uczniowie": 1087,
+    "dziewczeta": 15,
+    "chlopcy": 1072
+  },
+  "obszar wiejski, technik procesów drukowania": {
+    "uczniowie": 86,
+    "dziewczeta": 22,
+    "chlopcy": 64
+  },
+  "obszar wiejski, technik programista": {
+    "uczniowie": 430,
+    "dziewczeta": 30,
+    "chlopcy": 400
+  },
+  "obszar wiejski, technik przetwórstwa mleczarskiego": {
+    "uczniowie": 27,
+    "dziewczeta": 6,
+    "chlopcy": 21
+  },
+  "obszar wiejski, technik pszczelarz": {
+    "uczniowie": 97,
+    "dziewczeta": 22,
+    "chlopcy": 75
+  },
+  "obszar wiejski, technik rachunkowości": {
+    "uczniowie": 97,
+    "dziewczeta": 69,
+    "chlopcy": 28
+  },
+  "obszar wiejski, technik reklamy": {
+    "uczniowie": 716,
+    "dziewczeta": 440,
+    "chlopcy": 276
+  },
+  "obszar wiejski, technik robót wykończeniowych w budownictwie": {
+    "uczniowie": 81,
+    "dziewczeta": 8,
+    "chlopcy": 73
+  },
+  "obszar wiejski, technik robotyk": {
+    "uczniowie": 47,
+    "dziewczeta": 3,
+    "chlopcy": 44
+  },
+  "obszar wiejski, technik rolnik": {
+    "uczniowie": 2565,
+    "dziewczeta": 307,
+    "chlopcy": 2258
+  },
+  "obszar wiejski, technik spawalnictwa": {
+    "uczniowie": 1,
+    "dziewczeta": 0,
+    "chlopcy": 1
+  },
+  "obszar wiejski, technik spedytor": {
+    "uczniowie": 683,
+    "dziewczeta": 226,
+    "chlopcy": 457
+  },
+  "obszar wiejski, technik sterylizacji medycznej": {
+    "uczniowie": 57,
+    "dziewczeta": 48,
+    "chlopcy": 9
+  },
+  "obszar wiejski, technik stylista": {
+    "uczniowie": 102,
+    "dziewczeta": 100,
+    "chlopcy": 2
+  },
+  "obszar wiejski, technik technologii chemicznej": {
+    "uczniowie": 11,
+    "dziewczeta": 8,
+    "chlopcy": 3
+  },
+  "obszar wiejski, technik technologii drewna": {
+    "uczniowie": 137,
+    "dziewczeta": 2,
+    "chlopcy": 135
+  },
+  "obszar wiejski, technik technologii żywności": {
+    "uczniowie": 284,
+    "dziewczeta": 194,
+    "chlopcy": 90
+  },
+  "obszar wiejski, technik transportu drogowego": {
+    "uczniowie": 27,
+    "dziewczeta": 3,
+    "chlopcy": 24
+  },
+  "obszar wiejski, technik transportu kolejowego": {
+    "uczniowie": 195,
+    "dziewczeta": 81,
+    "chlopcy": 114
+  },
+  "obszar wiejski, technik turystyki na obszarach wiejskich": {
+    "uczniowie": 102,
+    "dziewczeta": 67,
+    "chlopcy": 35
+  },
+  "obszar wiejski, technik urządzeń i systemów energetyki odnawialnej": {
+    "uczniowie": 811,
+    "dziewczeta": 73,
+    "chlopcy": 738
+  },
+  "obszar wiejski, technik usług fryzjerskich": {
+    "uczniowie": 278,
+    "dziewczeta": 247,
+    "chlopcy": 31
+  },
+  "obszar wiejski, technik usług kosmetycznych": {
+    "uczniowie": 94,
+    "dziewczeta": 90,
+    "chlopcy": 4
+  },
+  "obszar wiejski, technik usług pocztowych i finansowych": {
+    "uczniowie": 40,
+    "dziewczeta": 20,
+    "chlopcy": 20
+  },
+  "obszar wiejski, technik weterynarii": {
+    "uczniowie": 5278,
+    "dziewczeta": 4194,
+    "chlopcy": 1084
+  },
+  "obszar miejski, kucharz": {
+    "uczniowie": 29216,
+    "dziewczeta": 16079,
+    "chlopcy": 13137
+  },
+  "obszar miejski, lakiernik samochodowy": {
+    "uczniowie": 1654,
+    "dziewczeta": 41,
+    "chlopcy": 1613
+  },
+  "obszar miejski, magazynier-logistyk": {
+    "uczniowie": 4647,
+    "dziewczeta": 1208,
+    "chlopcy": 3439
+  },
+  "obszar miejski, mechanik motocyklowy": {
+    "uczniowie": 140,
+    "dziewczeta": 10,
+    "chlopcy": 130
+  },
+  "obszar miejski, mechanik pojazdów kolejowych": {
+    "uczniowie": 101,
+    "dziewczeta": 1,
+    "chlopcy": 100
+  },
+  "obszar miejski, mechanik pojazdów samochodowych": {
+    "uczniowie": 36274,
+    "dziewczeta": 570,
+    "chlopcy": 35704
+  },
+  "obszar wiejski, terapeuta zajęciowy": {
+    "uczniowie": 144,
+    "dziewczeta": 117,
+    "chlopcy": 27
+  },
+  "obszar wiejski, złotnik-jubiler": {
+    "uczniowie": 1,
+    "dziewczeta": 0,
+    "chlopcy": 1
+  },
+  "obszar miejski, ślusarz": {
+    "uczniowie": 5063,
+    "dziewczeta": 45,
+    "chlopcy": 5018
+  },
+  "obszar miejski, administrator produkcji filmowej i telewizyjnej": {
+    "uczniowie": 540,
+    "dziewczeta": 284,
+    "chlopcy": 256
+  },
+  "obszar miejski, aktor scen muzycznych": {
+    "uczniowie": 145,
+    "dziewczeta": 111,
+    "chlopcy": 34
+  },
+  "obszar miejski, animator rynku książki": {
+    "uczniowie": 201,
+    "dziewczeta": 137,
+    "chlopcy": 64
+  },
+  "obszar miejski, asystent kierownika produkcji filmowej i telewizyjnej": {
+    "uczniowie": 1204,
+    "dziewczeta": 631,
+    "chlopcy": 573
+  },
+  "obszar miejski, asystent osoby niepełnosprawnej": {
+    "uczniowie": 1607,
+    "dziewczeta": 920,
+    "chlopcy": 687
+  },
+  "obszar miejski, asystentka stomatologiczna": {
+    "uczniowie": 8262,
+    "dziewczeta": 7308,
+    "chlopcy": 954
+  },
+  "obszar miejski, automatyk": {
+    "uczniowie": 183,
+    "dziewczeta": 7,
+    "chlopcy": 176
+  },
+  "obszar miejski, betoniarz-zbrojarz": {
+    "uczniowie": 33,
+    "dziewczeta": 0,
+    "chlopcy": 33
+  },
+  "obszar miejski, blacharz samochodowy": {
+    "uczniowie": 1195,
+    "dziewczeta": 5,
+    "chlopcy": 1190
+  },
+  "obszar miejski, blacharz": {
+    "uczniowie": 65,
+    "dziewczeta": 10,
+    "chlopcy": 55
+  },
+  "obszar miejski, cieśla": {
+    "uczniowie": 60,
+    "dziewczeta": 1,
+    "chlopcy": 59
+  },
+  "obszar miejski, cukiernik": {
+    "uczniowie": 12219,
+    "dziewczeta": 9436,
+    "chlopcy": 2783
+  },
+  "obszar miejski, dekarz": {
+    "uczniowie": 250,
+    "dziewczeta": 2,
+    "chlopcy": 248
+  },
+  "obszar miejski, drukarz fleksograficzny": {
+    "uczniowie": 31,
+    "dziewczeta": 5,
+    "chlopcy": 26
+  },
+  "obszar miejski, drukarz offsetowy": {
+    "uczniowie": 203,
+    "dziewczeta": 35,
+    "chlopcy": 168
+  },
+  "obszar miejski, eksperymentalny - animator działań filmowych": {
+    "uczniowie": 9,
+    "dziewczeta": 4,
+    "chlopcy": 5
+  },
+  "obszar miejski, eksperymentalny - animator działań teatralnych": {
+    "uczniowie": 21,
+    "dziewczeta": 17,
+    "chlopcy": 4
+  },
+  "obszar miejski, eksperymentalny - animator fotografii": {
+    "uczniowie": 26,
+    "dziewczeta": 16,
+    "chlopcy": 10
+  },
+  "obszar miejski, eksperymentalny - animator kultury regionalnej": {
+    "uczniowie": 13,
+    "dziewczeta": 12,
+    "chlopcy": 1
+  },
+  "obszar miejski, eksperymentalny - animator tańca": {
+    "uczniowie": 29,
+    "dziewczeta": 26,
+    "chlopcy": 3
+  },
+  "obszar miejski, eksperymentalny - serwisant sprzętu komputerowego": {
+    "uczniowie": 13,
+    "dziewczeta": 0,
+    "chlopcy": 13
+  },
+  "obszar miejski, eksperymentalny - technik aranżacji wnętrz": {
+    "uczniowie": 141,
+    "dziewczeta": 117,
+    "chlopcy": 24
+  },
+  "obszar miejski, eksperymentalny - technik automatyki i robotyki": {
+    "uczniowie": 133,
+    "dziewczeta": 6,
+    "chlopcy": 127
+  },
+  "obszar miejski, eksperymentalny - technik kontroli jakości i bezpieczeństwa żywności": {
+    "uczniowie": 120,
+    "dziewczeta": 98,
+    "chlopcy": 22
+  },
+  "obszar miejski, eksperymentalny - technik obsługi pasażerów w przewozach lotniczych, morskich i lądowych": {
+    "uczniowie": 127,
+    "dziewczeta": 104,
+    "chlopcy": 23
+  },
+  "obszar miejski, eksperymentalny - technik projektant tekstyliów": {
+    "uczniowie": 26,
+    "dziewczeta": 24,
+    "chlopcy": 2
+  },
+  "obszar miejski, eksperymentalny - technik robotyki": {
+    "uczniowie": 32,
+    "dziewczeta": 0,
+    "chlopcy": 32
+  },
+  "obszar miejski, eksperymentalny - technik stylista": {
+    "uczniowie": 42,
+    "dziewczeta": 42,
+    "chlopcy": 0
+  },
+  "obszar miejski, eksperymentalny - technik tekstronik": {
+    "uczniowie": 37,
+    "dziewczeta": 5,
+    "chlopcy": 32
+  },
+  "obszar miejski, elektromechanik pojazdów samochodowych": {
+    "uczniowie": 6369,
+    "dziewczeta": 60,
+    "chlopcy": 6309
+  },
+  "obszar miejski, elektromechanik": {
+    "uczniowie": 1366,
+    "dziewczeta": 19,
+    "chlopcy": 1347
+  },
+  "obszar miejski, elektronik": {
+    "uczniowie": 583,
+    "dziewczeta": 11,
+    "chlopcy": 572
+  },
+  "obszar miejski, elektryk": {
+    "uczniowie": 11476,
+    "dziewczeta": 51,
+    "chlopcy": 11425
+  },
+  "obszar miejski, florysta": {
+    "uczniowie": 25640,
+    "dziewczeta": 17573,
+    "chlopcy": 8067
+  },
+  "obszar miejski, fotograf": {
+    "uczniowie": 1466,
+    "dziewczeta": 1081,
+    "chlopcy": 385
+  },
+  "obszar miejski, fryzjer": {
+    "uczniowie": 22632,
+    "dziewczeta": 20407,
+    "chlopcy": 2225
+  },
+  "obszar miejski, górnik eksploatacji podziemnej": {
+    "uczniowie": 35,
+    "dziewczeta": 0,
+    "chlopcy": 35
+  },
+  "obszar miejski, górnik podziemnej eksploatacji kopalin innych niż węgiel kamienny": {
+    "uczniowie": 124,
+    "dziewczeta": 1,
+    "chlopcy": 123
+  },
+  "obszar miejski, higienistka stomatologiczna": {
+    "uczniowie": 8479,
+    "dziewczeta": 7985,
+    "chlopcy": 494
+  },
+  "obszar miejski, inny artystyczny": {
+    "uczniowie": 71,
+    "dziewczeta": 55,
+    "chlopcy": 16
+  },
+  "obszar miejski, jeździec": {
+    "uczniowie": 40,
+    "dziewczeta": 38,
+    "chlopcy": 2
+  },
+  "obszar miejski, kaletnik": {
+    "uczniowie": 9,
+    "dziewczeta": 6,
+    "chlopcy": 3
+  },
+  "obszar miejski, kamieniarz": {
+    "uczniowie": 42,
+    "dziewczeta": 0,
+    "chlopcy": 42
+  },
+  "obszar miejski, kelner": {
+    "uczniowie": 1392,
+    "dziewczeta": 1043,
+    "chlopcy": 349
+  },
+  "obszar miejski, kierowca mechanik": {
+    "uczniowie": 2430,
+    "dziewczeta": 36,
+    "chlopcy": 2394
+  },
+  "obszar miejski, kominiarz": {
+    "uczniowie": 12,
+    "dziewczeta": 1,
+    "chlopcy": 11
+  },
+  "obszar miejski, koszykarz-plecionkarz": {
+    "uczniowie": 8,
+    "dziewczeta": 5,
+    "chlopcy": 3
+  },
+  "obszar miejski, kowal": {
+    "uczniowie": 37,
+    "dziewczeta": 8,
+    "chlopcy": 29
+  },
+  "obszar miejski, krawiec": {
+    "uczniowie": 673,
+    "dziewczeta": 624,
+    "chlopcy": 49
+  },
+  "obszar miejski, technik handlowiec": {
+    "uczniowie": 11128,
+    "dziewczeta": 6752,
+    "chlopcy": 4376
+  },
+  "obszar miejski, technik hodowca koni": {
+    "uczniowie": 706,
+    "dziewczeta": 671,
+    "chlopcy": 35
+  },
+  "obszar miejski, technik hotelarstwa": {
+    "uczniowie": 24746,
+    "dziewczeta": 20187,
+    "chlopcy": 4559
+  },
+  "obszar miejski, technik inżynierii sanitarnej": {
+    "uczniowie": 1230,
+    "dziewczeta": 60,
+    "chlopcy": 1170
+  },
+  "obszar miejski, technik inżynierii środowiska i melioracji": {
+    "uczniowie": 121,
+    "dziewczeta": 50,
+    "chlopcy": 71
+  },
+  "obszar miejski, technik informatyk": {
+    "uczniowie": 89286,
+    "dziewczeta": 5743,
+    "chlopcy": 83543
+  }
+}

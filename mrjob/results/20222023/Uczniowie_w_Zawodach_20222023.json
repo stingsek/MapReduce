@@ -1,0 +1,1142 @@
+{
+  "technik górnictwa odkrywkowego": {
+    "uczniowie": 47,
+    "chlopcy": 47,
+    "dziewczeta": 0
+  },
+  "technik górnictwa otworowego": {
+    "uczniowie": 17,
+    "chlopcy": 17,
+    "dziewczeta": 0
+  },
+  "technik górnictwa podziemnego": {
+    "uczniowie": 254,
+    "chlopcy": 254,
+    "dziewczeta": 0
+  },
+  "technik gazownictwa": {
+    "uczniowie": 238,
+    "chlopcy": 238,
+    "dziewczeta": 0
+  },
+  "technik geodeta": {
+    "uczniowie": 7227,
+    "chlopcy": 7227,
+    "dziewczeta": 0
+  },
+  "technik geolog": {
+    "uczniowie": 171,
+    "chlopcy": 171,
+    "dziewczeta": 0
+  },
+  "technik grafiki i poligrafii cyfrowej": {
+    "uczniowie": 19772,
+    "chlopcy": 19772,
+    "dziewczeta": 0
+  },
+  "technik handlowiec": {
+    "uczniowie": 12341,
+    "chlopcy": 12341,
+    "dziewczeta": 0
+  },
+  "technik hodowca koni": {
+    "uczniowie": 1489,
+    "chlopcy": 1489,
+    "dziewczeta": 0
+  },
+  "technik hotelarstwa": {
+    "uczniowie": 30286,
+    "chlopcy": 30286,
+    "dziewczeta": 0
+  },
+  "technik inżynierii sanitarnej": {
+    "uczniowie": 1234,
+    "chlopcy": 1234,
+    "dziewczeta": 0
+  },
+  "technik inżynierii środowiska i melioracji": {
+    "uczniowie": 198,
+    "chlopcy": 198,
+    "dziewczeta": 0
+  },
+  "technik informatyk": {
+    "uczniowie": 106494,
+    "chlopcy": 106494,
+    "dziewczeta": 0
+  },
+  "mechanik precyzyjny": {
+    "uczniowie": 95,
+    "chlopcy": 95,
+    "dziewczeta": 0
+  },
+  "mechanik-monter maszyn i urządzeń": {
+    "uczniowie": 1594,
+    "chlopcy": 1594,
+    "dziewczeta": 0
+  },
+  "mechanik-operator maszyn do produkcji drzewnej": {
+    "uczniowie": 307,
+    "chlopcy": 307,
+    "dziewczeta": 0
+  },
+  "mechanik-operator pojazdów i maszyn rolniczych": {
+    "uczniowie": 3214,
+    "chlopcy": 3214,
+    "dziewczeta": 0
+  },
+  "mechatronik": {
+    "uczniowie": 1150,
+    "chlopcy": 1150,
+    "dziewczeta": 0
+  },
+  "modelarz odlewniczy": {
+    "uczniowie": 6,
+    "chlopcy": 6,
+    "dziewczeta": 0
+  },
+  "monter izolacji budowlanych": {
+    "uczniowie": 3,
+    "chlopcy": 3,
+    "dziewczeta": 0
+  },
+  "monter izolacji przemysłowych": {
+    "uczniowie": 197,
+    "chlopcy": 197,
+    "dziewczeta": 0
+  },
+  "monter jachtów i łodzi": {
+    "uczniowie": 39,
+    "chlopcy": 39,
+    "dziewczeta": 0
+  },
+  "monter kadłubów jednostek pływających": {
+    "uczniowie": 169,
+    "chlopcy": 169,
+    "dziewczeta": 0
+  },
+  "monter konstrukcji budowlanych": {
+    "uczniowie": 103,
+    "chlopcy": 103,
+    "dziewczeta": 0
+  },
+  "monter konstrukcji targowo-wystawienniczych": {
+    "uczniowie": 33,
+    "chlopcy": 33,
+    "dziewczeta": 0
+  },
+  "monter sieci i instalacji sanitarnych": {
+    "uczniowie": 3721,
+    "chlopcy": 3721,
+    "dziewczeta": 0
+  },
+  "monter sieci i urządzeń telekomunikacyjnych": {
+    "uczniowie": 9,
+    "chlopcy": 9,
+    "dziewczeta": 0
+  },
+  "monter stolarki budowlanej": {
+    "uczniowie": 78,
+    "chlopcy": 78,
+    "dziewczeta": 0
+  },
+  "monter zabudowy i robót wykończeniowych w budownictwie": {
+    "uczniowie": 10717,
+    "chlopcy": 10717,
+    "dziewczeta": 0
+  },
+  "murarz-tynkarz": {
+    "uczniowie": 2301,
+    "chlopcy": 2301,
+    "dziewczeta": 0
+  },
+  "rybak śródlądowy": {
+    "uczniowie": 3,
+    "chlopcy": 3,
+    "dziewczeta": 0
+  },
+  "sprzedawca": {
+    "uczniowie": 16674,
+    "chlopcy": 16674,
+    "dziewczeta": 0
+  },
+  "stolarz": {
+    "uczniowie": 7441,
+    "chlopcy": 7441,
+    "dziewczeta": 0
+  },
+  "tancerz": {
+    "uczniowie": 1057,
+    "chlopcy": 1057,
+    "dziewczeta": 0
+  },
+  "tapicer": {
+    "uczniowie": 1389,
+    "chlopcy": 1389,
+    "dziewczeta": 0
+  },
+  "technik żywienia i usług gastronomicznych": {
+    "uczniowie": 54156,
+    "chlopcy": 54156,
+    "dziewczeta": 0
+  },
+  "pracownik pomocniczy krawca": {
+    "uczniowie": 27,
+    "chlopcy": 27,
+    "dziewczeta": 0
+  },
+  "pracownik pomocniczy mechanika": {
+    "uczniowie": 67,
+    "chlopcy": 67,
+    "dziewczeta": 0
+  },
+  "pracownik pomocniczy obsługi hotelowej": {
+    "uczniowie": 1367,
+    "chlopcy": 1367,
+    "dziewczeta": 0
+  },
+  "pracownik pomocniczy stolarza": {
+    "uczniowie": 77,
+    "chlopcy": 77,
+    "dziewczeta": 0
+  },
+  "protetyk słuchu": {
+    "uczniowie": 463,
+    "chlopcy": 463,
+    "dziewczeta": 0
+  },
+  "przetwórca mięsa": {
+    "uczniowie": 119,
+    "chlopcy": 119,
+    "dziewczeta": 0
+  },
+  "przygotowanie do kształcenia zawodowego": {
+    "uczniowie": 63603,
+    "chlopcy": 63603,
+    "dziewczeta": 0
+  },
+  "pszczelarz": {
+    "uczniowie": 4,
+    "chlopcy": 4,
+    "dziewczeta": 0
+  },
+  "rękodzielnik wyrobów włókienniczych": {
+    "uczniowie": 11,
+    "chlopcy": 11,
+    "dziewczeta": 0
+  },
+  "rolnik": {
+    "uczniowie": 757,
+    "chlopcy": 757,
+    "dziewczeta": 0
+  },
+  "technik przemysłu metalurgicznego": {
+    "uczniowie": 196,
+    "chlopcy": 196,
+    "dziewczeta": 0
+  },
+  "technik przemysłu mody": {
+    "uczniowie": 3530,
+    "chlopcy": 3530,
+    "dziewczeta": 0
+  },
+  "technik przeróbki kopalin stałych": {
+    "uczniowie": 5,
+    "chlopcy": 5,
+    "dziewczeta": 0
+  },
+  "technik przetwórstwa mleczarskiego": {
+    "uczniowie": 129,
+    "chlopcy": 129,
+    "dziewczeta": 0
+  },
+  "technik pszczelarz": {
+    "uczniowie": 90,
+    "chlopcy": 90,
+    "dziewczeta": 0
+  },
+  "technik rachunkowości": {
+    "uczniowie": 8712,
+    "chlopcy": 8712,
+    "dziewczeta": 0
+  },
+  "technik realizacji nagłośnień": {
+    "uczniowie": 167,
+    "chlopcy": 167,
+    "dziewczeta": 0
+  },
+  "technik realizacji nagrań": {
+    "uczniowie": 938,
+    "chlopcy": 938,
+    "dziewczeta": 0
+  },
+  "technik reklamy": {
+    "uczniowie": 25330,
+    "chlopcy": 25330,
+    "dziewczeta": 0
+  },
+  "technik renowacji elementów architektury": {
+    "uczniowie": 1258,
+    "chlopcy": 1258,
+    "dziewczeta": 0
+  },
+  "technik robót wykończeniowych w budownictwie": {
+    "uczniowie": 3793,
+    "chlopcy": 3793,
+    "dziewczeta": 0
+  },
+  "technik robotyk": {
+    "uczniowie": 1155,
+    "chlopcy": 1155,
+    "dziewczeta": 0
+  },
+  "technik rolnik": {
+    "uczniowie": 4954,
+    "chlopcy": 4954,
+    "dziewczeta": 0
+  },
+  "technik rybactwa śródlądowego": {
+    "uczniowie": 28,
+    "chlopcy": 28,
+    "dziewczeta": 0
+  },
+  "technik spawalnictwa": {
+    "uczniowie": 1738,
+    "chlopcy": 1738,
+    "dziewczeta": 0
+  },
+  "technik spedytor": {
+    "uczniowie": 11835,
+    "chlopcy": 11835,
+    "dziewczeta": 0
+  },
+  "technik sterylizacji medycznej": {
+    "uczniowie": 12161,
+    "chlopcy": 12161,
+    "dziewczeta": 0
+  },
+  "technik stylista": {
+    "uczniowie": 1536,
+    "chlopcy": 1536,
+    "dziewczeta": 0
+  },
+  "technik szerokopasmowej komunikacji elektronicznej": {
+    "uczniowie": 170,
+    "chlopcy": 170,
+    "dziewczeta": 0
+  },
+  "technik technologii chemicznej": {
+    "uczniowie": 889,
+    "chlopcy": 889,
+    "dziewczeta": 0
+  },
+  "technik technologii drewna": {
+    "uczniowie": 1989,
+    "chlopcy": 1989,
+    "dziewczeta": 0
+  },
+  "technik technologii szkła": {
+    "uczniowie": 3,
+    "chlopcy": 3,
+    "dziewczeta": 0
+  },
+  "technik technologii żywności": {
+    "uczniowie": 4971,
+    "chlopcy": 4971,
+    "dziewczeta": 0
+  },
+  "technik teleinformatyk": {
+    "uczniowie": 5689,
+    "chlopcy": 5689,
+    "dziewczeta": 0
+  },
+  "technik telekomunikacji": {
+    "uczniowie": 159,
+    "chlopcy": 159,
+    "dziewczeta": 0
+  },
+  "technik transportu drogowego": {
+    "uczniowie": 747,
+    "chlopcy": 747,
+    "dziewczeta": 0
+  },
+  "technik transportu kolejowego": {
+    "uczniowie": 3510,
+    "chlopcy": 3510,
+    "dziewczeta": 0
+  },
+  "technik izolacji przemysłowych": {
+    "uczniowie": 24,
+    "chlopcy": 24,
+    "dziewczeta": 0
+  },
+  "technik księgarstwa": {
+    "uczniowie": 127,
+    "chlopcy": 127,
+    "dziewczeta": 0
+  },
+  "technik leśnik": {
+    "uczniowie": 4463,
+    "chlopcy": 4463,
+    "dziewczeta": 0
+  },
+  "technik logistyk": {
+    "uczniowie": 64731,
+    "chlopcy": 64731,
+    "dziewczeta": 0
+  },
+  "technik lotniskowych służb operacyjnych": {
+    "uczniowie": 1648,
+    "chlopcy": 1648,
+    "dziewczeta": 0
+  },
+  "technik masażysta": {
+    "uczniowie": 23460,
+    "chlopcy": 23460,
+    "dziewczeta": 0
+  },
+  "technik mechanik lotniczy": {
+    "uczniowie": 1681,
+    "chlopcy": 1681,
+    "dziewczeta": 0
+  },
+  "technik mechanik okrętowy": {
+    "uczniowie": 564,
+    "chlopcy": 564,
+    "dziewczeta": 0
+  },
+  "technik mechanik": {
+    "uczniowie": 17632,
+    "chlopcy": 17632,
+    "dziewczeta": 0
+  },
+  "technik mechanizacji rolnictwa i agrotroniki": {
+    "uczniowie": 8590,
+    "chlopcy": 8590,
+    "dziewczeta": 0
+  },
+  "technik mechatronik": {
+    "uczniowie": 26240,
+    "chlopcy": 26240,
+    "dziewczeta": 0
+  },
+  "technik nawigator morski": {
+    "uczniowie": 747,
+    "chlopcy": 747,
+    "dziewczeta": 0
+  },
+  "technik obsługi przemysłu targowo-wystawienniczego": {
+    "uczniowie": 29,
+    "chlopcy": 29,
+    "dziewczeta": 0
+  },
+  "technik ochrony fizycznej osób i mienia": {
+    "uczniowie": 2544,
+    "chlopcy": 2544,
+    "dziewczeta": 0
+  },
+  "technik ochrony środowiska": {
+    "uczniowie": 2611,
+    "chlopcy": 2611,
+    "dziewczeta": 0
+  },
+  "technik ogrodnik": {
+    "uczniowie": 966,
+    "chlopcy": 966,
+    "dziewczeta": 0
+  },
+  "technik optyk": {
+    "uczniowie": 964,
+    "chlopcy": 964,
+    "dziewczeta": 0
+  },
+  "technik organizacji turystyki": {
+    "uczniowie": 18629,
+    "chlopcy": 18629,
+    "dziewczeta": 0
+  },
+  "technik ortopeda": {
+    "uczniowie": 834,
+    "chlopcy": 834,
+    "dziewczeta": 0
+  },
+  "technik papiernictwa": {
+    "uczniowie": 192,
+    "chlopcy": 192,
+    "dziewczeta": 0
+  },
+  "technik pożarnictwa": {
+    "uczniowie": 419,
+    "chlopcy": 419,
+    "dziewczeta": 0
+  },
+  "technik podziemnej eksploatacji kopalin innych niż węgiel kamienny": {
+    "uczniowie": 285,
+    "chlopcy": 285,
+    "dziewczeta": 0
+  },
+  "technik pojazdów kolejowych": {
+    "uczniowie": 122,
+    "chlopcy": 122,
+    "dziewczeta": 0
+  },
+  "technik pojazdów samochodowych": {
+    "uczniowie": 32925,
+    "chlopcy": 32925,
+    "dziewczeta": 0
+  },
+  "technik prac biurowych": {
+    "uczniowie": 48,
+    "chlopcy": 48,
+    "dziewczeta": 0
+  },
+  "technik procesów drukowania": {
+    "uczniowie": 368,
+    "chlopcy": 368,
+    "dziewczeta": 0
+  },
+  "technik procesów introligatorskich": {
+    "uczniowie": 8,
+    "chlopcy": 8,
+    "dziewczeta": 0
+  },
+  "technik programista": {
+    "uczniowie": 22506,
+    "chlopcy": 22506,
+    "dziewczeta": 0
+  },
+  "muzyk": {
+    "uczniowie": 13168,
+    "chlopcy": 13168,
+    "dziewczeta": 0
+  },
+  "obuwnik": {
+    "uczniowie": 6,
+    "chlopcy": 6,
+    "dziewczeta": 0
+  },
+  "ogrodnik": {
+    "uczniowie": 855,
+    "chlopcy": 855,
+    "dziewczeta": 0
+  },
+  "operator maszyn i urządzeń do przetwórstwa tworzyw sztucznych": {
+    "uczniowie": 112,
+    "chlopcy": 112,
+    "dziewczeta": 0
+  },
+  "operator maszyn i urządzeń do robót ziemnych i drogowych": {
+    "uczniowie": 34,
+    "chlopcy": 34,
+    "dziewczeta": 0
+  },
+  "operator maszyn i urządzeń przeróbczych": {
+    "uczniowie": 32,
+    "chlopcy": 32,
+    "dziewczeta": 0
+  },
+  "operator maszyn i urządzeń odlewniczych": {
+    "uczniowie": 20,
+    "chlopcy": 20,
+    "dziewczeta": 0
+  },
+  "operator maszyn i urządzeń przemysłu spożywczego": {
+    "uczniowie": 79,
+    "chlopcy": 79,
+    "dziewczeta": 0
+  },
+  "operator maszyn leśnych": {
+    "uczniowie": 56,
+    "chlopcy": 56,
+    "dziewczeta": 0
+  },
+  "operator maszyn w przemyśle włókienniczym": {
+    "uczniowie": 1,
+    "chlopcy": 1,
+    "dziewczeta": 0
+  },
+  "operator obrabiarek skrawających": {
+    "uczniowie": 4269,
+    "chlopcy": 4269,
+    "dziewczeta": 0
+  },
+  "operator procesów introligatorskich": {
+    "uczniowie": 192,
+    "chlopcy": 192,
+    "dziewczeta": 0
+  },
+  "operator urządzeń przemysłu ceramicznego": {
+    "uczniowie": 1,
+    "chlopcy": 1,
+    "dziewczeta": 0
+  },
+  "operator urządzeń przemysłu chemicznego": {
+    "uczniowie": 5,
+    "chlopcy": 5,
+    "dziewczeta": 0
+  },
+  "operator urządzeń przemysłu szklarskiego": {
+    "uczniowie": 31,
+    "chlopcy": 31,
+    "dziewczeta": 0
+  },
+  "opiekun medyczny": {
+    "uczniowie": 25354,
+    "chlopcy": 25354,
+    "dziewczeta": 0
+  },
+  "opiekun osoby starszej": {
+    "uczniowie": 533,
+    "chlopcy": 533,
+    "dziewczeta": 0
+  },
+  "opiekun w domu pomocy społecznej": {
+    "uczniowie": 1054,
+    "chlopcy": 1054,
+    "dziewczeta": 0
+  },
+  "opiekunka dziecięca": {
+    "uczniowie": 6148,
+    "chlopcy": 6148,
+    "dziewczeta": 0
+  },
+  "opiekunka środowiskowa": {
+    "uczniowie": 1370,
+    "chlopcy": 1370,
+    "dziewczeta": 0
+  },
+  "optyk-mechanik": {
+    "uczniowie": 1,
+    "chlopcy": 1,
+    "dziewczeta": 0
+  },
+  "ortoptystka": {
+    "uczniowie": 252,
+    "chlopcy": 252,
+    "dziewczeta": 0
+  },
+  "piekarz": {
+    "uczniowie": 1920,
+    "chlopcy": 1920,
+    "dziewczeta": 0
+  },
+  "plastyk": {
+    "uczniowie": 10914,
+    "chlopcy": 10914,
+    "dziewczeta": 0
+  },
+  "podolog": {
+    "uczniowie": 1583,
+    "chlopcy": 1583,
+    "dziewczeta": 0
+  },
+  "pracownik obsługi hotelowej": {
+    "uczniowie": 856,
+    "chlopcy": 856,
+    "dziewczeta": 0
+  },
+  "pracownik pomocniczy ślusarza": {
+    "uczniowie": 70,
+    "chlopcy": 70,
+    "dziewczeta": 0
+  },
+  "pracownik pomocniczy fryzjera": {
+    "uczniowie": 35,
+    "chlopcy": 35,
+    "dziewczeta": 0
+  },
+  "pracownik pomocniczy gastronomii": {
+    "uczniowie": 776,
+    "chlopcy": 776,
+    "dziewczeta": 0
+  },
+  "technik administracji": {
+    "uczniowie": 30361,
+    "chlopcy": 30361,
+    "dziewczeta": 0
+  },
+  "technik agrobiznesu": {
+    "uczniowie": 2364,
+    "chlopcy": 2364,
+    "dziewczeta": 0
+  },
+  "technik analityk": {
+    "uczniowie": 5542,
+    "chlopcy": 5542,
+    "dziewczeta": 0
+  },
+  "technik architektury krajobrazu": {
+    "uczniowie": 15068,
+    "chlopcy": 15068,
+    "dziewczeta": 0
+  },
+  "technik archiwista": {
+    "uczniowie": 2258,
+    "chlopcy": 2258,
+    "dziewczeta": 0
+  },
+  "technik automatyk sterowania ruchem kolejowym": {
+    "uczniowie": 161,
+    "chlopcy": 161,
+    "dziewczeta": 0
+  },
+  "technik automatyk": {
+    "uczniowie": 4786,
+    "chlopcy": 4786,
+    "dziewczeta": 0
+  },
+  "technik awionik": {
+    "uczniowie": 451,
+    "chlopcy": 451,
+    "dziewczeta": 0
+  },
+  "technik bezpieczeństwa i higieny pracy": {
+    "uczniowie": 29577,
+    "chlopcy": 29577,
+    "dziewczeta": 0
+  },
+  "technik budownictwa kolejowego": {
+    "uczniowie": 195,
+    "chlopcy": 195,
+    "dziewczeta": 0
+  },
+  "technik budownictwa": {
+    "uczniowie": 22472,
+    "chlopcy": 22472,
+    "dziewczeta": 0
+  },
+  "technik turystyki na obszarach wiejskich": {
+    "uczniowie": 351,
+    "chlopcy": 351,
+    "dziewczeta": 0
+  },
+  "technik tyfloinformatyk": {
+    "uczniowie": 55,
+    "chlopcy": 55,
+    "dziewczeta": 0
+  },
+  "technik urządzeń dźwigowych": {
+    "uczniowie": 227,
+    "chlopcy": 227,
+    "dziewczeta": 0
+  },
+  "technik urządzeń i systemów energetyki odnawialnej": {
+    "uczniowie": 9507,
+    "chlopcy": 9507,
+    "dziewczeta": 0
+  },
+  "technik usług fryzjerskich": {
+    "uczniowie": 18783,
+    "chlopcy": 18783,
+    "dziewczeta": 0
+  },
+  "technik usług kelnerskich": {
+    "uczniowie": 1694,
+    "chlopcy": 1694,
+    "dziewczeta": 0
+  },
+  "technik usług kosmetycznych": {
+    "uczniowie": 32646,
+    "chlopcy": 32646,
+    "dziewczeta": 0
+  },
+  "technik usług pocztowych i finansowych": {
+    "uczniowie": 2117,
+    "chlopcy": 2117,
+    "dziewczeta": 0
+  },
+  "technik włókienniczych wyrobów dekoracyjnych": {
+    "uczniowie": 2,
+    "chlopcy": 2,
+    "dziewczeta": 0
+  },
+  "technik weterynarii": {
+    "uczniowie": 15082,
+    "chlopcy": 15082,
+    "dziewczeta": 0
+  },
+  "technik wiertnik": {
+    "uczniowie": 116,
+    "chlopcy": 116,
+    "dziewczeta": 0
+  },
+  "technik żeglugi śródlądowej": {
+    "uczniowie": 420,
+    "chlopcy": 420,
+    "dziewczeta": 0
+  },
+  "terapeuta zajęciowy": {
+    "uczniowie": 10719,
+    "chlopcy": 10719,
+    "dziewczeta": 0
+  },
+  "inny artystyczny": {
+    "uczniowie": 272,
+    "chlopcy": 272,
+    "dziewczeta": 0
+  },
+  "jeździec": {
+    "uczniowie": 27,
+    "chlopcy": 27,
+    "dziewczeta": 0
+  },
+  "kaletnik": {
+    "uczniowie": 6,
+    "chlopcy": 6,
+    "dziewczeta": 0
+  },
+  "kamieniarz": {
+    "uczniowie": 47,
+    "chlopcy": 47,
+    "dziewczeta": 0
+  },
+  "kelner": {
+    "uczniowie": 1022,
+    "chlopcy": 1022,
+    "dziewczeta": 0
+  },
+  "kierowca mechanik": {
+    "uczniowie": 3376,
+    "chlopcy": 3376,
+    "dziewczeta": 0
+  },
+  "kominiarz": {
+    "uczniowie": 12,
+    "chlopcy": 12,
+    "dziewczeta": 0
+  },
+  "koszykarz-plecionkarz": {
+    "uczniowie": 21,
+    "chlopcy": 21,
+    "dziewczeta": 0
+  },
+  "kowal": {
+    "uczniowie": 32,
+    "chlopcy": 32,
+    "dziewczeta": 0
+  },
+  "krawiec": {
+    "uczniowie": 626,
+    "chlopcy": 626,
+    "dziewczeta": 0
+  },
+  "kucharz": {
+    "uczniowie": 26971,
+    "chlopcy": 26971,
+    "dziewczeta": 0
+  },
+  "lakiernik samochodowy": {
+    "uczniowie": 1596,
+    "chlopcy": 1596,
+    "dziewczeta": 0
+  },
+  "magazynier-logistyk": {
+    "uczniowie": 3493,
+    "chlopcy": 3493,
+    "dziewczeta": 0
+  },
+  "mechanik motocyklowy": {
+    "uczniowie": 169,
+    "chlopcy": 169,
+    "dziewczeta": 0
+  },
+  "mechanik pojazdów kolejowych": {
+    "uczniowie": 82,
+    "chlopcy": 82,
+    "dziewczeta": 0
+  },
+  "mechanik pojazdów samochodowych": {
+    "uczniowie": 34665,
+    "chlopcy": 34665,
+    "dziewczeta": 0
+  },
+  "złotnik-jubiler": {
+    "uczniowie": 126,
+    "chlopcy": 126,
+    "dziewczeta": 0
+  },
+  "zdobnik ceramiki": {
+    "uczniowie": 78,
+    "chlopcy": 78,
+    "dziewczeta": 0
+  },
+  "zdun": {
+    "uczniowie": 5,
+    "chlopcy": 5,
+    "dziewczeta": 0
+  },
+  "ślusarz": {
+    "uczniowie": 5271,
+    "chlopcy": 5271,
+    "dziewczeta": 0
+  },
+  "aktor cyrkowy": {
+    "uczniowie": 39,
+    "chlopcy": 39,
+    "dziewczeta": 0
+  },
+  "aktor scen muzycznych": {
+    "uczniowie": 217,
+    "chlopcy": 217,
+    "dziewczeta": 0
+  },
+  "asystent kierownika produkcji filmowej i telewizyjnej": {
+    "uczniowie": 1081,
+    "chlopcy": 1081,
+    "dziewczeta": 0
+  },
+  "asystent osoby niepełnosprawnej": {
+    "uczniowie": 1447,
+    "chlopcy": 1447,
+    "dziewczeta": 0
+  },
+  "asystentka stomatologiczna": {
+    "uczniowie": 5697,
+    "chlopcy": 5697,
+    "dziewczeta": 0
+  },
+  "automatyk": {
+    "uczniowie": 169,
+    "chlopcy": 169,
+    "dziewczeta": 0
+  },
+  "betoniarz-zbrojarz": {
+    "uczniowie": 34,
+    "chlopcy": 34,
+    "dziewczeta": 0
+  },
+  "blacharz samochodowy": {
+    "uczniowie": 1253,
+    "chlopcy": 1253,
+    "dziewczeta": 0
+  },
+  "blacharz": {
+    "uczniowie": 95,
+    "chlopcy": 95,
+    "dziewczeta": 0
+  },
+  "cieśla": {
+    "uczniowie": 74,
+    "chlopcy": 74,
+    "dziewczeta": 0
+  },
+  "cukiernik": {
+    "uczniowie": 10597,
+    "chlopcy": 10597,
+    "dziewczeta": 0
+  },
+  "dekarz": {
+    "uczniowie": 220,
+    "chlopcy": 220,
+    "dziewczeta": 0
+  },
+  "drukarz fleksograficzny": {
+    "uczniowie": 40,
+    "chlopcy": 40,
+    "dziewczeta": 0
+  },
+  "drukarz offsetowy": {
+    "uczniowie": 199,
+    "chlopcy": 199,
+    "dziewczeta": 0
+  },
+  "eksperymentalny - technik aranżacji wnętrz": {
+    "uczniowie": 213,
+    "chlopcy": 213,
+    "dziewczeta": 0
+  },
+  "eksperymentalny - technik automatyki i robotyki": {
+    "uczniowie": 139,
+    "chlopcy": 139,
+    "dziewczeta": 0
+  },
+  "eksperymentalny - technik elektromobilności": {
+    "uczniowie": 24,
+    "chlopcy": 24,
+    "dziewczeta": 0
+  },
+  "eksperymentalny - technik jeździectwa": {
+    "uczniowie": 30,
+    "chlopcy": 30,
+    "dziewczeta": 0
+  },
+  "eksperymentalny - technik kontroli jakości i bezpieczeństwa żywności": {
+    "uczniowie": 99,
+    "chlopcy": 99,
+    "dziewczeta": 0
+  },
+  "eksperymentalny - technik obsługi pasażerów w przewozach lotniczych, morskich i lądowych": {
+    "uczniowie": 133,
+    "chlopcy": 133,
+    "dziewczeta": 0
+  },
+  "eksperymentalny - technik projektant tekstyliów": {
+    "uczniowie": 5,
+    "chlopcy": 5,
+    "dziewczeta": 0
+  },
+  "eksperymentalny - technik robotyki": {
+    "uczniowie": 32,
+    "chlopcy": 32,
+    "dziewczeta": 0
+  },
+  "eksperymentalny - technik spawalnictwa": {
+    "uczniowie": 42,
+    "chlopcy": 42,
+    "dziewczeta": 0
+  },
+  "eksperymentalny - technik stylista": {
+    "uczniowie": 114,
+    "chlopcy": 114,
+    "dziewczeta": 0
+  },
+  "eksperymentalny - technik tekstronik": {
+    "uczniowie": 20,
+    "chlopcy": 20,
+    "dziewczeta": 0
+  },
+  "elektromechanik pojazdów samochodowych": {
+    "uczniowie": 6303,
+    "chlopcy": 6303,
+    "dziewczeta": 0
+  },
+  "elektromechanik": {
+    "uczniowie": 1421,
+    "chlopcy": 1421,
+    "dziewczeta": 0
+  },
+  "elektronik": {
+    "uczniowie": 613,
+    "chlopcy": 613,
+    "dziewczeta": 0
+  },
+  "elektryk": {
+    "uczniowie": 10456,
+    "chlopcy": 10456,
+    "dziewczeta": 0
+  },
+  "florysta": {
+    "uczniowie": 23023,
+    "chlopcy": 23023,
+    "dziewczeta": 0
+  },
+  "fotograf": {
+    "uczniowie": 1326,
+    "chlopcy": 1326,
+    "dziewczeta": 0
+  },
+  "fryzjer": {
+    "uczniowie": 23514,
+    "chlopcy": 23514,
+    "dziewczeta": 0
+  },
+  "górnik eksploatacji podziemnej": {
+    "uczniowie": 20,
+    "chlopcy": 20,
+    "dziewczeta": 0
+  },
+  "górnik odkrywkowej eksploatacji złóż": {
+    "uczniowie": 1,
+    "chlopcy": 1,
+    "dziewczeta": 0
+  },
+  "górnik podziemnej eksploatacji kopalin innych niż węgiel kamienny": {
+    "uczniowie": 114,
+    "chlopcy": 114,
+    "dziewczeta": 0
+  },
+  "higienistka stomatologiczna": {
+    "uczniowie": 7960,
+    "chlopcy": 7960,
+    "dziewczeta": 0
+  },
+  "technik budowy dróg": {
+    "uczniowie": 563,
+    "chlopcy": 563,
+    "dziewczeta": 0
+  },
+  "technik budowy i strojenia fortepianów i pianin": {
+    "uczniowie": 58,
+    "chlopcy": 58,
+    "dziewczeta": 0
+  },
+  "technik budowy jednostek pływających": {
+    "uczniowie": 157,
+    "chlopcy": 157,
+    "dziewczeta": 0
+  },
+  "technik ceramik": {
+    "uczniowie": 64,
+    "chlopcy": 64,
+    "dziewczeta": 0
+  },
+  "technik chłodnictwa i klimatyzacji": {
+    "uczniowie": 1595,
+    "chlopcy": 1595,
+    "dziewczeta": 0
+  },
+  "technik dekarstwa": {
+    "uczniowie": 80,
+    "chlopcy": 80,
+    "dziewczeta": 0
+  },
+  "technik dentystyczny": {
+    "uczniowie": 1921,
+    "chlopcy": 1921,
+    "dziewczeta": 0
+  },
+  "technik ekonomista": {
+    "uczniowie": 41257,
+    "chlopcy": 41257,
+    "dziewczeta": 0
+  },
+  "technik eksploatacji portów i terminali": {
+    "uczniowie": 5560,
+    "chlopcy": 5560,
+    "dziewczeta": 0
+  },
+  "technik elektroautomatyk okrętowy": {
+    "uczniowie": 31,
+    "chlopcy": 31,
+    "dziewczeta": 0
+  },
+  "technik elektroenergetyk transportu szynowego": {
+    "uczniowie": 586,
+    "chlopcy": 586,
+    "dziewczeta": 0
+  },
+  "technik elektronik": {
+    "uczniowie": 11913,
+    "chlopcy": 11913,
+    "dziewczeta": 0
+  },
+  "technik elektroniki i informatyki medycznej": {
+    "uczniowie": 433,
+    "chlopcy": 433,
+    "dziewczeta": 0
+  },
+  "technik elektroradiolog": {
+    "uczniowie": 3363,
+    "chlopcy": 3363,
+    "dziewczeta": 0
+  },
+  "technik elektryk": {
+    "uczniowie": 21295,
+    "chlopcy": 21295,
+    "dziewczeta": 0
+  },
+  "technik energetyk": {
+    "uczniowie": 890,
+    "chlopcy": 890,
+    "dziewczeta": 0
+  },
+  "technik farmaceutyczny": {
+    "uczniowie": 4564,
+    "chlopcy": 4564,
+    "dziewczeta": 0
+  },
+  "technik fotografii i multimediów": {
+    "uczniowie": 17157,
+    "chlopcy": 17157,
+    "dziewczeta": 0
+  }
+}

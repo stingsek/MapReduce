@@ -1,0 +1,76 @@
+{
+    "top": [
+        [
+            [
+                "śląskie",
+                "technikum"
+            ],
+            3987
+        ],
+        [
+            [
+                "wielkopolskie",
+                "branżowa szkoła i stopnia"
+            ],
+            3940
+        ],
+        [
+            [
+                "mazowieckie",
+                "technikum"
+            ],
+            3649
+        ],
+        [
+            [
+                "wielkopolskie",
+                "technikum"
+            ],
+            3206
+        ],
+        [
+            [
+                "małopolskie",
+                "technikum"
+            ],
+            2848
+        ]
+    ],
+    "min": [
+        [
+            [
+                "wielkopolskie",
+                "policealna szkoła plastyczna"
+            ],
+            2
+        ],
+        [
+            [
+                "lubelskie",
+                "policealna szkoła plastyczna"
+            ],
+            2
+        ],
+        [
+            [
+                "mazowieckie",
+                "policealna szkoła muzyczna"
+            ],
+            2
+        ],
+        [
+            [
+                "lubuskie",
+                "ogólnokształcąca szkoła muzyczna ii stopnia"
+            ],
+            1
+        ],
+        [
+            [
+                "zachodniopomorskie",
+                "policealna szkoła plastyczna"
+            ],
+            1
+        ]
+    ]
+}
